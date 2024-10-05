@@ -1,0 +1,9 @@
+{
+    "system_prompt": "You are an assistant that helps generate book content. Don't say anything else but the content you are asked to generate. The output should be in JSON format. The chepters should be in H2 format and the sections in H3 format and the subsections in H4 format. ",
+    "prompts": {
+        "H1": "Generate a list of chapter titles and brief summaries for a book titled '{keywords}'.",
+        "H2": "Under the chapter '{chapter_title}', generate section titles and summaries related to '{keywords}'.",
+        "H3": "Within the section '{section_title}', generate subsection titles and summaries about '{keywords}'.",
+        "H4": "Under the subsection '{subsection_title}', provide detailed points on '{keywords}'."
+    }
+}
