@@ -66,17 +66,11 @@ class BookGenerator:
             h1_headings = json.loads(h1_response)['chapters']
             print(f'h1_headings: {h1_headings}')
 
-            
-
         else:
-            console.print(f'h1_output_path already exists: {self.h1_output_path}', style="cyan")
+            console.print(f'h1_output_path already exists: {self.h1_output_path}', style="blue")
             h1_response = json.loads(open(self.h1_output_path, 'r', encoding='utf-8').read())
             h1_headings = h1_response['chapters']
             print(f'h1_headings: {h1_headings}')
-        
-        
-        
-        exit()
 
 
         if not os.path.exists(self.h2_output_path):
@@ -100,7 +94,13 @@ class BookGenerator:
                 print(f'h2_headings: {h2_headings}')
                 self.write_json_to_file(h2_headings, self.h2_output_path)
         else:
-            print(f'h2_output_path already exists: {self.h2_output_path}')
+            console.print(f'h2_output_path already exists: {self.h2_output_path}', style="blue")
+            h2_response = json.loads(open(self.h2_output_path, 'r', encoding='utf-8').read())
+            h2_headings = h2_response['chapters']
+            print(f'h2_headings: {h2_headings}')
+
+
+        exit()
 
 
         if not os.path.exists(self.h3_output_path):
