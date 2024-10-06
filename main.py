@@ -43,6 +43,12 @@ class BookGenerator:
         self.book_data = self.read_json_from_file(self.book_prompt_json)
         self.book_content_system_prompt = self.book_data['book_content_system_prompt']
         self.book_content_prompts = self.book_data['book_content_prompts']
+
+
+        self.content_quality_check_system_json = 'content_quality_check_system_prompt.json'
+        self.content_quality_check_data = self.read_json_from_file(self.content_quality_check_system_json)
+        self.content_quality_check_system_prompt = self.content_quality_check_data['content_quality_system_prompt']
+        
         
         
         self.h1_json = 'h1.json'
@@ -233,6 +239,8 @@ class BookGenerator:
             system_prompt = self.toc_system_prompt
         elif phase == 'book':
             system_prompt = self.book_content_system_prompt
+        elif phase == 'quentent_quality_check':
+            system_prompt = self.quentent_quality_check_system_prompt
 
         console.print(f'System prompt: {system_prompt}', style="purple")
         console.print(f'Prompt: {prompt}', style="purple")
@@ -408,6 +416,10 @@ class BookGenerator:
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
         return data
+    
+    def quentent_quality_check(self, text):
+        score = self.call_mistral_model(text, phase='quentent_quality_check')
+        return score
 
 
 if __name__ == '__main__':

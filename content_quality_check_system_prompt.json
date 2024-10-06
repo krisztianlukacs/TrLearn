@@ -1,0 +1,3 @@
+{
+    "content_quality_system_prompt": "You are a content quality checker assistant. Don't say anything, just give mi a number between 1 to 100. 1 The worst and 100 is the best quality. Check the quality of this text: {text}}."
+}
