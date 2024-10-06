@@ -1,0 +1,48 @@
+{
+    "chapters": [
+        {
+            "title": "Breaking Barriers in Science: Marie Curie",
+            "summary": "Marie Curie, the first woman to win a Nobel Prize and the only person to win in multiple sciences, revolutionized the fields of physics and chemistry. Her groundbreaking research on radioactivity paved the way for modern scientific advancements.",
+            "keywords": [
+                "Marie Curie",
+                "Nobel Prize",
+                "radioactivity",
+                "physics",
+                "chemistry"
+            ]
+        },
+        {
+            "title": "Aviation Pioneer: Amelia Earhart",
+            "summary": "Amelia Earhart broke gender barriers in aviation, becoming the first woman to fly solo across the Atlantic Ocean. Her courage and determination inspired generations of women to pursue careers in aviation and other male-dominated fields.",
+            "keywords": [
+                "Amelia Earhart",
+                "aviation",
+                "Atlantic Ocean",
+                "gender barriers",
+                "courage"
+            ]
+        },
+        {
+            "title": "Civil Rights Champion: Rosa Parks",
+            "summary": "Rosa Parks sparked the Montgomery Bus Boycott and became a symbol of the Civil Rights Movement. Her refusal to give up her seat on a bus to a white man led to significant changes in legislation and societal attitudes towards racial segregation.",
+            "keywords": [
+                "Rosa Parks",
+                "Civil Rights",
+                "Montgomery Bus Boycott",
+                "racial segregation",
+                "societal change"
+            ]
+        },
+        {
+            "title": "Computer Programming Trailblazer: Grace Hopper",
+            "summary": "Grace Hopper was a pioneering computer scientist and United States Navy rear admiral. She was one of the first programmers of the Harvard Mark I computer and developed the first compiler for a computer programming language.",
+            "keywords": [
+                "Grace Hopper",
+                "computer science",
+                "Harvard Mark I",
+                "compiler",
+                "programming language"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Stocks",
+            "summary": "This chapter provides an overview of what stocks are and their significance in the financial world.",
+            "keywords": [
+                "stocks",
+                "investment",
+                "financial instruments"
+            ]
+        },
+        {
+            "title": "Understanding the Financial Market",
+            "summary": "This chapter delves into the structure and functioning of the financial market, highlighting its key components and players.",
+            "keywords": [
+                "financial market",
+                "economy",
+                "trading"
+            ]
+        },
+        {
+            "title": "The Basics of Shares",
+            "summary": "This chapter explains what shares are, how they are traded, and the different types of shares available in the market.",
+            "keywords": [
+                "shares",
+                "equity",
+                "stock market"
+            ]
+        },
+        {
+            "title": "Navigating the Stock Market",
+            "summary": "This chapter offers practical advice on how to navigate the stock market, including strategies for buying and selling stocks.",
+            "keywords": [
+                "stock market",
+                "investing",
+                "trading strategies"
+            ]
+        }
+    ]
+}

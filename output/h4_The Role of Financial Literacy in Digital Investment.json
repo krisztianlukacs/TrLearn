@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Financial Literacy",
+            "summary": "This chapter explores the fundamental aspects of financial literacy, including basic financial concepts, budgeting, and saving strategies. It emphasizes the importance of understanding financial principles to make informed decisions.",
+            "keywords": [
+                "financial literacy",
+                "basic financial concepts",
+                "budgeting",
+                "saving strategies"
+            ]
+        },
+        {
+            "title": "Making Informed Decisions in Finance",
+            "summary": "This chapter delves into the significance of being well-informed when making financial decisions. It discusses how financial literacy enables individuals to evaluate different financial products, manage risks, and plan for the future effectively.",
+            "keywords": [
+                "informed decisions",
+                "financial products",
+                "risk management",
+                "financial planning"
+            ]
+        },
+        {
+            "title": "The Rise of Digital Investments",
+            "summary": "This chapter introduces the concept of digital investments, including online trading platforms, cryptocurrencies, and robo-advisors. It highlights the opportunities and challenges presented by digital investment tools and technologies.",
+            "keywords": [
+                "digital investments",
+                "online trading platforms",
+                "cryptocurrencies",
+                "robo-advisors"
+            ]
+        },
+        {
+            "title": "Navigating Digital Investments with Financial Literacy",
+            "summary": "This chapter explains how financial literacy is crucial for navigating the complex world of digital investments. It discusses how understanding financial concepts can help investors make better decisions, avoid common pitfalls, and maximize their returns in the digital investment landscape.",
+            "keywords": [
+                "financial literacy",
+                "digital investments",
+                "investment decisions",
+                "risk management"
+            ]
+        }
+    ]
+}

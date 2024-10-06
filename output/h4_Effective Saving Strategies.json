@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "The Importance of Saving",
+            "summary": "This chapter discusses the significance of saving money and how it can impact your financial future. It covers the benefits of saving, from building wealth to achieving financial independence.",
+            "keywords": [
+                "saving",
+                "financial independence",
+                "wealth building"
+            ]
+        },
+        {
+            "title": "Understanding Savings Accounts",
+            "summary": "This chapter provides an in-depth look at savings accounts, including different types such as traditional savings, high-yield savings, and money market accounts. It also covers how to choose the right savings account for your needs.",
+            "keywords": [
+                "savings accounts",
+                "high-yield savings",
+                "money market accounts"
+            ]
+        },
+        {
+            "title": "Setting and Achieving Financial Goals",
+            "summary": "This chapter focuses on setting realistic financial goals and creating a plan to achieve them. It includes strategies for budgeting, prioritizing expenses, and tracking progress towards your financial objectives.",
+            "keywords": [
+                "financial goals",
+                "budgeting",
+                "expense management"
+            ]
+        },
+        {
+            "title": "Building an Emergency Fund",
+            "summary": "This chapter explains the importance of having an emergency fund and provides practical tips on how to build one. It covers how much money to save, where to keep your emergency fund, and when to use it.",
+            "keywords": [
+                "emergency fund",
+                "financial security",
+                "saving strategies"
+            ]
+        }
+    ]
+}

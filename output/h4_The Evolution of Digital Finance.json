@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "The Rise of Digital Finance",
+            "summary": "This chapter delves into the origins and growth of digital finance, highlighting key milestones and innovations that have shaped the industry.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "technological advancements"
+            ]
+        },
+        {
+            "title": "Historical Perspective on Digital Finance",
+            "summary": "Explores the historical context of digital finance, from early electronic transactions to the emergence of online banking and digital currencies.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "technological advancements"
+            ]
+        },
+        {
+            "title": "Technological Advancements in Digital Finance",
+            "summary": "Discusses the technological innovations that have driven the evolution of digital finance, including blockchain, AI, and mobile banking.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "technological advancements"
+            ]
+        },
+        {
+            "title": "The Future of Digital Finance",
+            "summary": "Looks ahead to the future of digital finance, predicting trends and discussing the potential impacts of emerging technologies on the financial landscape.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "technological advancements"
+            ]
+        }
+    ]
+}

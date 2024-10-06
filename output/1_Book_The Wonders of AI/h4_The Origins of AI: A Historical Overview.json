@@ -1,0 +1,40 @@
+{
+    "subsection": [
+        {
+            "title": "The Origins of AI: A Historical Overview",
+            "summary": "This subsection explores the historical development of Artificial Intelligence, highlighting key figures and early AI programs that laid the foundation for modern AI.",
+            "keywords": [
+                "AI history",
+                "Alan Turing",
+                "early AI programs"
+            ]
+        },
+        {
+            "title": "AI history",
+            "summary": "Artificial Intelligence (AI) has roots in ancient myths and stories about artificial beings endowed with intelligence. The formal birth of AI as a field began in the mid-20th century with the advent of digital computers.",
+            "keywords": [
+                "ancient myths",
+                "digital computers",
+                "AI birth"
+            ]
+        },
+        {
+            "title": "Alan Turing",
+            "summary": "Alan Turing, a British mathematician and computer scientist, is widely considered the father of theoretical computer science and artificial intelligence. His work on the Turing Test, which measures a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human, is foundational to AI.",
+            "keywords": [
+                "Alan Turing",
+                "Turing Test",
+                "theoretical computer science"
+            ]
+        },
+        {
+            "title": "early AI programs",
+            "summary": "The 1950s and 1960s saw the development of early AI programs, such as the Logic Theorist by Allen Newell, Herbert A. Simon, and Cliff Shaw, which demonstrated the feasibility of intelligent machines. Other notable programs include ELIZA, a natural language processing computer program created by Joseph Weizenbaum, which simulated conversation.",
+            "keywords": [
+                "Logic Theorist",
+                "ELIZA",
+                "intelligent machines"
+            ]
+        }
+    ]
+}

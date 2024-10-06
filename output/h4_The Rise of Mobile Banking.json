@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "The Advent of Mobile Banking",
+            "summary": "This chapter explores the emergence and evolution of mobile banking, highlighting its significance in modern finance.",
+            "keywords": [
+                "mobile banking",
+                "financial technology",
+                "digital transformation",
+                "banking trends"
+            ]
+        },
+        {
+            "title": "Changes in Consumer Behavior",
+            "summary": "This chapter delves into how mobile banking has altered consumer behavior, with a focus on increased usage and expectations.",
+            "keywords": [
+                "consumer behavior",
+                "mobile banking adoption",
+                "user expectations",
+                "financial habits"
+            ]
+        },
+        {
+            "title": "The Convenience Factor",
+            "summary": "This chapter discusses the convenience offered by mobile banking, including features like anytime access and streamlined services.",
+            "keywords": [
+                "convenience",
+                "mobile banking features",
+                "24/7 access",
+                "user experience"
+            ]
+        },
+        {
+            "title": "Security Measures in Mobile Banking",
+            "summary": "This chapter addresses the security aspects of mobile banking, detailing measures taken to protect user data and transactions.",
+            "keywords": [
+                "security",
+                "mobile banking safety",
+                "data protection",
+                "transaction security"
+            ]
+        }
+    ]
+}

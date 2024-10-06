@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Blockchain",
+            "summary": "An overview of blockchain technology, its origins, and how it works.",
+            "keywords": [
+                "blockchain",
+                "technology",
+                "origins",
+                "overview"
+            ]
+        },
+        {
+            "title": "Technological Foundations of Blockchain",
+            "summary": "Exploring the technical components and principles that make up blockchain technology.",
+            "keywords": [
+                "technology",
+                "components",
+                "principles",
+                "blockchain"
+            ]
+        },
+        {
+            "title": "Security in Blockchain Systems",
+            "summary": "A detailed look at the security mechanisms and protocols used in blockchain to ensure data integrity and protection.",
+            "keywords": [
+                "security",
+                "mechanisms",
+                "protocols",
+                "blockchain"
+            ]
+        },
+        {
+            "title": "Transparency and Trust in Blockchain",
+            "summary": "Understanding how blockchain technology enhances transparency and builds trust in various applications and industries.",
+            "keywords": [
+                "transparency",
+                "trust",
+                "applications",
+                "blockchain"
+            ]
+        }
+    ]
+}

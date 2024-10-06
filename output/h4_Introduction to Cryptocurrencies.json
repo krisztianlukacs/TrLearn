@@ -1,0 +1,42 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Cryptocurrencies",
+            "summary": "This chapter provides an overview of what cryptocurrencies are, their purpose, and how they function in the digital economy.",
+            "keywords": [
+                "cryptocurrencies",
+                "digital economy",
+                "function"
+            ]
+        },
+        {
+            "title": "The Origins of Cryptocurrencies",
+            "summary": "This chapter delves into the historical context of cryptocurrencies, including the creation of Bitcoin and the pioneers who developed the technology.",
+            "keywords": [
+                "origins",
+                "Bitcoin",
+                "technology"
+            ]
+        },
+        {
+            "title": "Principles of Cryptocurrencies",
+            "summary": "This chapter explains the fundamental principles underlying cryptocurrencies, such as decentralization, blockchain technology, and cryptographic security.",
+            "keywords": [
+                "principles",
+                "decentralization",
+                "blockchain",
+                "security"
+            ]
+        },
+        {
+            "title": "Early Adopters and Innovations",
+            "summary": "This chapter discusses the early adopters of cryptocurrencies and the innovations that have shaped the industry, including altcoins and smart contracts.",
+            "keywords": [
+                "early adopters",
+                "innovations",
+                "altcoins",
+                "smart contracts"
+            ]
+        }
+    ]
+}

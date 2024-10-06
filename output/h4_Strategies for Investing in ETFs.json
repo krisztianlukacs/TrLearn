@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to ETFs",
+            "summary": "An overview of what Exchange Traded Funds (ETFs) are, their benefits, and how they differ from other investment instruments.",
+            "keywords": [
+                "ETFs",
+                "investment",
+                "funds",
+                "overview"
+            ]
+        },
+        {
+            "title": "Diversification Strategies",
+            "summary": "Explore how ETFs can be used to diversify your investment portfolio across various asset classes and sectors.",
+            "keywords": [
+                "ETFs",
+                "diversification",
+                "asset classes",
+                "portfolio"
+            ]
+        },
+        {
+            "title": "Active vs Passive Investing",
+            "summary": "Discuss the differences between active and passive investing strategies in the context of ETFs, and how to choose the right approach for your goals.",
+            "keywords": [
+                "ETFs",
+                "active investing",
+                "passive investing",
+                "strategies"
+            ]
+        },
+        {
+            "title": "Cost-Effective Investing with ETFs",
+            "summary": "Learn about the cost advantages of ETFs, including lower expense ratios and trading fees, and how to maximize these benefits.",
+            "keywords": [
+                "ETFs",
+                "cost-effective",
+                "expense ratios",
+                "trading fees"
+            ]
+        }
+    ]
+}

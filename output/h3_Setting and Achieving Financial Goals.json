@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Setting Financial Goals",
+            "summary": "This chapter focuses on the importance of goal setting in personal finance. It provides strategies for setting realistic and achievable financial goals.",
+            "keywords": [
+                "goal setting",
+                "financial planning",
+                "realistic goals"
+            ]
+        },
+        {
+            "title": "Identifying Your Financial Goals",
+            "summary": "This chapter explores the process of identifying specific financial goals, such as saving for retirement, buying a house, or paying off debt.",
+            "keywords": [
+                "financial goals",
+                "retirement planning",
+                "debt management"
+            ]
+        },
+        {
+            "title": "Tracking Your Financial Progress",
+            "summary": "This chapter discusses methods and tools for tracking your financial progress. It emphasizes the importance of regular monitoring to stay on course with your financial goals.",
+            "keywords": [
+                "tracking",
+                "financial progress",
+                "monitoring tools"
+            ]
+        },
+        {
+            "title": "Achieving Your Financial Goals",
+            "summary": "This chapter provides actionable steps and strategies for achieving your financial goals. It includes tips on maintaining motivation and overcoming obstacles.",
+            "keywords": [
+                "achievement",
+                "financial success",
+                "motivation"
+            ]
+        }
+    ]
+}

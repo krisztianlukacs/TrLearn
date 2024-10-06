@@ -1,0 +1,34 @@
+{
+    "subsections": [
+        {
+            "title": "What is Machine Learning?",
+            "summary": "Machine learning is a subset of artificial intelligence that involves training algorithms to make predictions or decisions based on data. This subsection will introduce the basic concepts and types of machine learning.",
+            "keywords": [
+                "machine learning",
+                "algorithms",
+                "data",
+                "predictions"
+            ]
+        },
+        {
+            "title": "The Importance of Machine Learning",
+            "summary": "This subsection will discuss why machine learning is crucial in today's data-driven world. It will cover how machine learning can automate tasks, improve decision-making, and drive innovation across various industries.",
+            "keywords": [
+                "importance",
+                "automation",
+                "decision-making",
+                "innovation"
+            ]
+        },
+        {
+            "title": "Machine Learning vs Traditional Programming",
+            "summary": "This subsection will compare machine learning with traditional programming, highlighting the differences in approach, flexibility, and application. It will explain when and why machine learning is preferred over traditional programming methods.",
+            "keywords": [
+                "traditional programming",
+                "machine learning",
+                "differences",
+                "approach"
+            ]
+        }
+    ]
+}

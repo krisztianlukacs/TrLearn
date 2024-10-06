@@ -1,0 +1,50 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Blockchain Technology",
+            "summary": "This chapter delves into the fundamental aspects of blockchain technology, exploring its origins, evolution, and core concepts.",
+            "keywords": [
+                "Blockchain",
+                "Technology",
+                "Origins",
+                "Evolution",
+                "Core Concepts"
+            ]
+        },
+        {
+            "title": "Key Components of Blockchain",
+            "summary": "This chapter examines the essential components that make up a blockchain, including nodes, transactions, blocks, and consensus mechanisms.",
+            "keywords": [
+                "Blockchain",
+                "Components",
+                "Nodes",
+                "Transactions",
+                "Blocks",
+                "Consensus Mechanisms"
+            ]
+        },
+        {
+            "title": "Principles of Blockchain",
+            "summary": "This chapter discusses the foundational principles of blockchain, such as decentralization, transparency, immutability, and security.",
+            "keywords": [
+                "Blockchain",
+                "Principles",
+                "Decentralization",
+                "Transparency",
+                "Immutability",
+                "Security"
+            ]
+        },
+        {
+            "title": "Blockchain in Action",
+            "summary": "This chapter provides real-world examples of blockchain applications, highlighting its use cases in various industries and its potential for future innovations.",
+            "keywords": [
+                "Blockchain",
+                "Applications",
+                "Use Cases",
+                "Industries",
+                "Innovations"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Personal Finance",
+            "summary": "An overview of personal finance, including understanding income, expenses, and the importance of financial planning.",
+            "keywords": [
+                "personal finance",
+                "income",
+                "expenses",
+                "financial planning"
+            ]
+        },
+        {
+            "title": "Mastering Budgeting Techniques",
+            "summary": "Exploring various budgeting methods, such as the 50/30/20 rule, zero-based budgeting, and how to create and stick to a budget.",
+            "keywords": [
+                "budgeting",
+                "50/30/20 rule",
+                "zero-based budgeting",
+                "financial management"
+            ]
+        },
+        {
+            "title": "Effective Saving Strategies",
+            "summary": "Discussing the importance of saving, different types of savings accounts, and tips for setting and achieving savings goals.",
+            "keywords": [
+                "saving",
+                "savings accounts",
+                "financial goals",
+                "emergency fund"
+            ]
+        },
+        {
+            "title": "Debt Management and Reduction",
+            "summary": "Covering strategies for managing and reducing debt, including debt consolidation, the snowball method, and negotiating with creditors.",
+            "keywords": [
+                "debt management",
+                "debt reduction",
+                "debt consolidation",
+                "snowball method"
+            ]
+        }
+    ]
+}

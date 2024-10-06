@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Investment Strategies in Cryptocurrency",
+            "summary": "Explore various investment strategies in the cryptocurrency market to maximize returns and minimize risks.",
+            "keywords": [
+                "investment strategies",
+                "cryptocurrency",
+                "market analysis",
+                "portfolio management"
+            ]
+        },
+        {
+            "title": "Long-Term Holding in Cryptocurrency",
+            "summary": "Understand the benefits and risks of long-term holding in cryptocurrency, including strategies for selecting coins and managing volatility.",
+            "keywords": [
+                "long-term holding",
+                "cryptocurrency investment",
+                "coin selection",
+                "volatility management"
+            ]
+        },
+        {
+            "title": "Diversification in Cryptocurrency Investment",
+            "summary": "Learn about the importance of diversification in cryptocurrency investment and how to build a balanced portfolio to mitigate risks.",
+            "keywords": [
+                "diversification",
+                "cryptocurrency portfolio",
+                "risk management",
+                "balanced investment"
+            ]
+        },
+        {
+            "title": "Advanced Cryptocurrency Trading Techniques",
+            "summary": "Discover advanced trading techniques and tools for cryptocurrency investors looking to leverage market movements for profit.",
+            "keywords": [
+                "advanced trading",
+                "cryptocurrency",
+                "market tools",
+                "profit strategies"
+            ]
+        }
+    ]
+}

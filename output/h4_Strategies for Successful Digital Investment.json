@@ -1,0 +1,46 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Digital Investment",
+            "summary": "This chapter explores the concept of digital investment, highlighting its importance in the modern financial landscape. It covers the various types of digital assets, their characteristics, and the opportunities they present.",
+            "keywords": [
+                "digital investment",
+                "digital assets",
+                "financial landscape",
+                "opportunities"
+            ]
+        },
+        {
+            "title": "Strategies for Effective Digital Investment",
+            "summary": "This chapter delves into the strategies that can be employed for successful digital investment. It discusses the importance of thorough research, market analysis, and understanding the technology behind digital assets.",
+            "keywords": [
+                "strategies",
+                "digital investment",
+                "research",
+                "market analysis",
+                "technology"
+            ]
+        },
+        {
+            "title": "Diversification in Digital Investment",
+            "summary": "This chapter emphasizes the significance of diversification in digital investment. It explains how spreading investments across different types of digital assets can reduce risk and maximize potential returns.",
+            "keywords": [
+                "diversification",
+                "digital investment",
+                "risk reduction",
+                "maximizing returns"
+            ]
+        },
+        {
+            "title": "Risk Management in Digital Investment",
+            "summary": "This chapter focuses on risk management strategies tailored for digital investment. It covers methods such as portfolio balancing, setting stop-loss orders, and staying informed about regulatory changes that can impact digital assets.",
+            "keywords": [
+                "risk management",
+                "digital investment",
+                "portfolio balancing",
+                "stop-loss orders",
+                "regulatory changes"
+            ]
+        }
+    ]
+}

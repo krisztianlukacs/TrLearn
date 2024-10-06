@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Online Trading",
+            "summary": "This chapter provides an overview of online trading, its benefits, and how it has revolutionized the financial markets.",
+            "keywords": [
+                "online trading",
+                "benefits",
+                "financial markets"
+            ]
+        },
+        {
+            "title": "Choosing the Right Trading Platform",
+            "summary": "This chapter guides readers on selecting the best trading platform based on their needs, including features, fees, and security considerations.",
+            "keywords": [
+                "platforms",
+                "features",
+                "fees",
+                "security"
+            ]
+        },
+        {
+            "title": "Trading Stocks Online",
+            "summary": "This chapter covers the basics of stock trading, including how to buy and sell stocks, market analysis, and risk management strategies.",
+            "keywords": [
+                "stocks",
+                "trading",
+                "market analysis",
+                "risk management"
+            ]
+        },
+        {
+            "title": "Investing in ETFs via Online Platforms",
+            "summary": "This chapter discusses the advantages of ETFs, how to invest in them through online platforms, and strategies for diversifying your portfolio with ETFs.",
+            "keywords": [
+                "ETFs",
+                "investing",
+                "diversification",
+                "portfolio"
+            ]
+        }
+    ]
+}

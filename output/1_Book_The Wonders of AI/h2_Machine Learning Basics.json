@@ -1,0 +1,53 @@
+{
+    "sections": [
+        {
+            "title": "Introduction to Machine Learning",
+            "summary": "An overview of what machine learning is, its importance, and how it differs from traditional programming.",
+            "keywords": [
+                "machine learning",
+                "importance",
+                "traditional programming"
+            ]
+        },
+        {
+            "title": "Fundamental Concepts of Machine Learning",
+            "summary": "Explains the basic principles and concepts that form the foundation of machine learning, including supervised and unsupervised learning.",
+            "keywords": [
+                "fundamentals",
+                "supervised learning",
+                "unsupervised learning"
+            ]
+        },
+        {
+            "title": "Types of Machine Learning",
+            "summary": "Discusses the different types of machine learning algorithms, such as supervised, unsupervised, and reinforcement learning.",
+            "keywords": [
+                "types",
+                "supervised learning",
+                "unsupervised learning",
+                "reinforcement learning"
+            ]
+        },
+        {
+            "title": "Machine Learning Techniques",
+            "summary": "Covers various techniques used in machine learning, including regression, classification, clustering, and deep learning.",
+            "keywords": [
+                "techniques",
+                "regression",
+                "classification",
+                "clustering",
+                "deep learning"
+            ]
+        },
+        {
+            "title": "Applications of Machine Learning",
+            "summary": "Describes the practical applications of machine learning in various fields, such as healthcare, finance, and natural language processing.",
+            "keywords": [
+                "applications",
+                "healthcare",
+                "finance",
+                "natural language processing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Financial Goals",
+            "summary": "This chapter discusses the importance of setting clear financial goals and how they can guide your financial decisions. It explains the process of identifying short-term and long-term goals and provides strategies for achieving them.",
+            "keywords": [
+                "financial goals",
+                "short-term goals",
+                "long-term goals",
+                "strategies"
+            ]
+        },
+        {
+            "title": "Planning for Retirement",
+            "summary": "This chapter focuses on retirement planning, including the importance of starting early, different types of retirement accounts, and investment strategies. It also covers how to estimate your retirement needs and create a plan to meet them.",
+            "keywords": [
+                "retirement planning",
+                "retirement accounts",
+                "investment strategies",
+                "estimating retirement needs"
+            ]
+        },
+        {
+            "title": "Managing Debt Effectively",
+            "summary": "This chapter provides insights into debt management, including understanding different types of debt, strategies for paying off debt, and the impact of debt on your financial health. It also discusses when to consider debt consolidation and other debt relief options.",
+            "keywords": [
+                "debt management",
+                "types of debt",
+                "debt payment strategies",
+                "debt consolidation"
+            ]
+        },
+        {
+            "title": "Aligning Financial Goals with Retirement and Debt Management",
+            "summary": "This chapter explains how to align your financial goals with your retirement planning and debt management strategies. It discusses the importance of balancing saving for retirement with paying off debt and provides practical tips for achieving both.",
+            "keywords": [
+                "aligning financial goals",
+                "balancing saving and debt",
+                "retirement and debt management",
+                "practical tips"
+            ]
+        }
+    ]
+}

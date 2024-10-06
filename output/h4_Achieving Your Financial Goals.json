@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Setting Clear Financial Goals",
+            "summary": "This chapter focuses on the importance of setting clear and achievable financial goals. It discusses strategies for defining short-term and long-term objectives, and provides tools for tracking progress.",
+            "keywords": [
+                "goal setting",
+                "financial planning",
+                "tracking progress"
+            ]
+        },
+        {
+            "title": "Strategies for Financial Success",
+            "summary": "Explore various strategies that can lead to financial success. This chapter covers budgeting, saving, investing, and managing debt, offering practical advice to help readers achieve their financial dreams.",
+            "keywords": [
+                "budgeting",
+                "saving",
+                "investing",
+                "debt management"
+            ]
+        },
+        {
+            "title": "Motivation and Mindset for Financial Growth",
+            "summary": "Discusses the psychological aspects of financial success, emphasizing the importance of maintaining a positive mindset and staying motivated. Includes tips on overcoming financial setbacks and maintaining long-term vision.",
+            "keywords": [
+                "motivation",
+                "mindset",
+                "overcoming setbacks",
+                "long-term vision"
+            ]
+        },
+        {
+            "title": "Achieving Financial Milestones",
+            "summary": "This chapter outlines key financial milestones such as buying a home, starting a business, and planning for retirement. It provides step-by-step guides on how to achieve these milestones and the benefits they bring.",
+            "keywords": [
+                "financial milestones",
+                "home buying",
+                "business startup",
+                "retirement planning"
+            ]
+        }
+    ]
+}

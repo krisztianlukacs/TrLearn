@@ -1,0 +1,62 @@
+{
+    "subsections": [
+        {
+            "title": "AI Importance",
+            "summary": "This subsection explores the critical role of artificial intelligence in various domains such as healthcare, finance, and education. It highlights how AI enhances efficiency, accuracy, and decision-making processes.",
+            "keywords": [
+                "AI importance",
+                "efficiency",
+                "decision-making",
+                "healthcare",
+                "finance",
+                "education"
+            ]
+        },
+        {
+            "title": "Industry Revolution",
+            "summary": "This subsection delves into the transformative impact of AI on industries, including automation, robotics, and data analysis. It examines how AI is revolutionizing business models and creating new opportunities.",
+            "keywords": [
+                "industry revolution",
+                "automation",
+                "robotics",
+                "data analysis",
+                "business models"
+            ]
+        },
+        {
+            "title": "Daily Life",
+            "summary": "This subsection discusses the integration of AI into everyday life, from smart home devices to personalized recommendations. It explores how AI is making daily tasks easier and more convenient.",
+            "keywords": [
+                "daily life",
+                "smart home devices",
+                "personalized recommendations",
+                "convenience",
+                "AI integration"
+            ]
+        },
+        {
+            "title": "Ethical Implications",
+            "summary": "This subsection addresses the ethical concerns surrounding AI, including privacy, bias, and accountability. It discusses the importance of responsible AI development and the need for ethical guidelines.",
+            "keywords": [
+                "ethical implications",
+                "privacy",
+                "bias",
+                "accountability",
+                "responsible AI",
+                "ethical guidelines"
+            ]
+        },
+        {
+            "title": "Societal Impacts",
+            "summary": "This subsection examines the broader societal impacts of AI, such as job displacement, social inequality, and cultural shifts. It highlights the need for policy and societal measures to ensure AI benefits all members of society.",
+            "keywords": [
+                "societal impacts",
+                "job displacement",
+                "social inequality",
+                "cultural shifts",
+                "policy",
+                "AI benefits"
+            ]
+        }
+    ]
+}

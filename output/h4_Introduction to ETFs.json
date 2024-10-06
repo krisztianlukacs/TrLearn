@@ -1,0 +1,42 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Exchange-Traded Funds (ETFs)",
+            "summary": "This chapter provides an overview of what ETFs are, their structure, and how they work in the financial markets.",
+            "keywords": [
+                "ETFs",
+                "financial instruments",
+                "investment vehicles"
+            ]
+        },
+        {
+            "title": "Introduction to ETFs",
+            "summary": "An introductory guide to ETFs, explaining their origins, evolution, and different types available to investors.",
+            "keywords": [
+                "introduction",
+                "ETF types",
+                "investment basics"
+            ]
+        },
+        {
+            "title": "Benefits of Investing in ETFs",
+            "summary": "This chapter explores the various advantages of ETFs, including diversification, liquidity, and lower costs compared to other investment options.",
+            "keywords": [
+                "benefits",
+                "diversification",
+                "liquidity",
+                "cost efficiency"
+            ]
+        },
+        {
+            "title": "ETFs vs. Mutual Funds: A Comparative Analysis",
+            "summary": "A detailed comparison between ETFs and mutual funds, highlighting the differences in structure, trading, and performance.",
+            "keywords": [
+                "ETFs",
+                "mutual funds",
+                "comparison",
+                "investment strategies"
+            ]
+        }
+    ]
+}

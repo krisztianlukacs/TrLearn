@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Financial Literacy",
+            "summary": "This chapter delves into the fundamental concepts of financial literacy, including budgeting, saving, and the importance of understanding financial products and services.",
+            "keywords": [
+                "financial literacy",
+                "budgeting",
+                "saving",
+                "financial products"
+            ]
+        },
+        {
+            "title": "Building Essential Financial Skills",
+            "summary": "This chapter focuses on skill building, covering topics such as financial planning, risk management, and investment strategies to empower individuals in making informed financial decisions.",
+            "keywords": [
+                "skill building",
+                "financial planning",
+                "risk management",
+                "investment strategies"
+            ]
+        },
+        {
+            "title": "Exploring Digital Investment Opportunities",
+            "summary": "This chapter discusses the various digital investment options available, including cryptocurrencies, online trading platforms, and the role of technology in modern investing.",
+            "keywords": [
+                "digital investment",
+                "cryptocurrencies",
+                "online trading",
+                "technology in investing"
+            ]
+        },
+        {
+            "title": "Ensuring Effectiveness in Digital Investments",
+            "summary": "This chapter provides insights into how to measure and ensure the effectiveness of digital investments, including performance tracking, diversification, and the importance of continuous learning.",
+            "keywords": [
+                "effectiveness",
+                "performance tracking",
+                "diversification",
+                "continuous learning"
+            ]
+        }
+    ]
+}

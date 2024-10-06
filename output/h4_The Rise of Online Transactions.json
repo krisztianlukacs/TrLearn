@@ -1,0 +1,46 @@
+{
+    "chapters": [
+        {
+            "title": "The Evolution of Online Transactions",
+            "summary": "This chapter explores the origins and development of online transactions, highlighting key milestones and technological advancements.",
+            "keywords": [
+                "online transactions",
+                "history",
+                "e-commerce",
+                "digital payments"
+            ]
+        },
+        {
+            "title": "Early Days of Internet Commerce",
+            "summary": "This chapter delves into the early days of the internet and the first attempts at online transactions, including the challenges faced and initial solutions.",
+            "keywords": [
+                "online transactions",
+                "history",
+                "early internet",
+                "e-commerce beginnings"
+            ]
+        },
+        {
+            "title": "The Birth of E-commerce Giants",
+            "summary": "This chapter discusses the rise of major e-commerce platforms like Amazon and eBay, and their impact on the growth of online transactions.",
+            "keywords": [
+                "online transactions",
+                "history",
+                "e-commerce giants",
+                "Amazon",
+                "eBay"
+            ]
+        },
+        {
+            "title": "The Role of Payment Gateways",
+            "summary": "This chapter examines the development of payment gateways and their critical role in facilitating secure and efficient online transactions.",
+            "keywords": [
+                "online transactions",
+                "history",
+                "payment gateways",
+                "secure transactions",
+                "technological advancements"
+            ]
+        }
+    ]
+}

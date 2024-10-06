@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Effective Strategies for Cryptocurrency Investment",
+            "summary": "This chapter explores various strategies for investing in cryptocurrencies to maximize returns while managing risks.",
+            "keywords": [
+                "cryptocurrency",
+                "investment",
+                "strategies"
+            ]
+        },
+        {
+            "title": "Diversification in Cryptocurrency Investment",
+            "summary": "Diversification is key to managing risk. This chapter discusses how to spread your investments across different cryptocurrencies to minimize potential losses.",
+            "keywords": [
+                "diversification",
+                "risk management",
+                "cryptocurrencies"
+            ]
+        },
+        {
+            "title": "Long-Term Holding in Cryptocurrency",
+            "summary": "Long-term holding, or 'HODLing,' is a strategy where investors hold onto their cryptocurrencies for extended periods. This chapter explores the benefits and risks of this approach.",
+            "keywords": [
+                "long-term holding",
+                "HODLing",
+                "cryptocurrency investment"
+            ]
+        },
+        {
+            "title": "Day Trading in Cryptocurrency",
+            "summary": "Day trading involves buying and selling cryptocurrencies within the same day to profit from short-term price movements. This chapter covers the techniques and risks associated with day trading in the cryptocurrency market.",
+            "keywords": [
+                "day trading",
+                "short-term profits",
+                "cryptocurrency market"
+            ]
+        }
+    ]
+}

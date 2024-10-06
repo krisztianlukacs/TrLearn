@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Cryptocurrency Investment",
+            "summary": "This chapter provides an overview of cryptocurrency as an investment option. It covers the basics of cryptocurrency, its potential as an investment, and the risks involved.",
+            "keywords": [
+                "investment",
+                "cryptocurrency",
+                "risk",
+                "potential"
+            ]
+        },
+        {
+            "title": "Getting Started with Cryptocurrency Trading",
+            "summary": "This chapter guides beginners on how to start trading cryptocurrencies. It includes steps for setting up a wallet, choosing a trading platform, and making your first trade.",
+            "keywords": [
+                "getting started",
+                "trading",
+                "wallet",
+                "platform"
+            ]
+        },
+        {
+            "title": "Advanced Cryptocurrency Investment Strategies",
+            "summary": "This chapter delves into advanced investment strategies for cryptocurrency. It discusses diversification, risk management, and long-term investment plans.",
+            "keywords": [
+                "advanced",
+                "strategies",
+                "diversification",
+                "risk management"
+            ]
+        },
+        {
+            "title": "Case Studies: Successful Cryptocurrency Investors",
+            "summary": "This chapter presents real-world case studies of successful cryptocurrency investors. It analyzes their strategies, successes, and failures to provide valuable insights.",
+            "keywords": [
+                "case studies",
+                "successful investors",
+                "strategies",
+                "insights"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "subsection": [
+        {
+            "title": "The Impact of AI on Modern Society",
+            "summary": "This subsection explores the profound influence of Artificial Intelligence (AI) on various aspects of modern society, with a particular focus on healthcare and finance.",
+            "keywords": [
+                "AI impact",
+                "modern society",
+                "healthcare",
+                "finance"
+            ]
+        },
+        {
+            "title": "AI Impact",
+            "summary": "AI has significantly transformed numerous industries by automating tasks, enhancing efficiency, and providing insights through data analysis.",
+            "keywords": [
+                "automation",
+                "efficiency",
+                "data analysis"
+            ]
+        },
+        {
+            "title": "Modern Society",
+            "summary": "Modern society is increasingly reliant on AI for everyday functions, from personal assistants to smart cities and advanced transportation systems.",
+            "keywords": [
+                "smart cities",
+                "transportation",
+                "personal assistants"
+            ]
+        },
+        {
+            "title": "Healthcare",
+            "summary": "AI in healthcare is revolutionizing patient care through predictive analytics, personalized medicine, and advanced diagnostics, leading to better outcomes and reduced costs.",
+            "keywords": [
+                "predictive analytics",
+                "personalized medicine",
+                "diagnostics"
+            ]
+        },
+        {
+            "title": "Finance",
+            "summary": "The finance sector is leveraging AI for fraud detection, risk management, and algorithmic trading, making financial systems more secure and efficient.",
+            "keywords": [
+                "fraud detection",
+                "risk management",
+                "algorithmic trading"
+            ]
+        }
+    ]
+}

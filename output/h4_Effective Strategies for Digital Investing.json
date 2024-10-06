@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Digital Investing",
+            "summary": "An overview of digital investing, its benefits, and how it differs from traditional investing.",
+            "keywords": [
+                "digital investing",
+                "benefits",
+                "traditional investing"
+            ]
+        },
+        {
+            "title": "Investment Strategies in Digital Markets",
+            "summary": "Explore various investment strategies tailored for digital markets, including value investing, growth investing, and momentum investing.",
+            "keywords": [
+                "investment strategies",
+                "value investing",
+                "growth investing",
+                "momentum investing"
+            ]
+        },
+        {
+            "title": "Risk Management in Digital Investing",
+            "summary": "Understand the importance of risk management in digital investing, including techniques for assessing risk, setting stop-loss orders, and hedging strategies.",
+            "keywords": [
+                "risk management",
+                "risk assessment",
+                "stop-loss orders",
+                "hedging"
+            ]
+        },
+        {
+            "title": "Portfolio Diversification for Digital Assets",
+            "summary": "Learn the principles of portfolio diversification in the context of digital assets, including the importance of asset allocation and rebalancing.",
+            "keywords": [
+                "portfolio diversification",
+                "asset allocation",
+                "rebalancing",
+                "digital assets"
+            ]
+        }
+    ]
+}

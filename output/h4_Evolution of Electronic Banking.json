@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Electronic Banking",
+            "summary": "This chapter provides an overview of electronic banking, its definition, and its importance in modern financial systems.",
+            "keywords": [
+                "electronic banking",
+                "definition",
+                "importance",
+                "financial systems"
+            ]
+        },
+        {
+            "title": "Evolution of Electronic Banking",
+            "summary": "This chapter covers the historical development of electronic banking, from its early beginnings to its current state.",
+            "keywords": [
+                "electronic banking",
+                "history",
+                "development",
+                "evolution"
+            ]
+        },
+        {
+            "title": "The Rise of ATMs",
+            "summary": "This chapter explores the introduction and impact of Automated Teller Machines (ATMs) on the banking industry.",
+            "keywords": [
+                "ATMs",
+                "banking industry",
+                "impact",
+                "automation"
+            ]
+        },
+        {
+            "title": "Online and Mobile Banking",
+            "summary": "This chapter discusses the growth of online and mobile banking, including the technologies and innovations that have made them possible.",
+            "keywords": [
+                "online banking",
+                "mobile banking",
+                "technologies",
+                "innovations"
+            ]
+        }
+    ]
+}

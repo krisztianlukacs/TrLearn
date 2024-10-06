@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Stocks",
+            "summary": "This chapter provides an introduction to stocks, including what they are, how they work, and their importance in the financial market.",
+            "keywords": [
+                "stocks",
+                "financial market",
+                "shares"
+            ]
+        },
+        {
+            "title": "The Basics of Trading",
+            "summary": "This chapter covers the fundamentals of trading, including different types of trades, strategies, and platforms used for trading.",
+            "keywords": [
+                "trading",
+                "strategies",
+                "platforms"
+            ]
+        },
+        {
+            "title": "Market Analysis Techniques",
+            "summary": "This chapter delves into various market analysis techniques, such as technical analysis and fundamental analysis, to help traders make informed decisions.",
+            "keywords": [
+                "market analysis",
+                "technical analysis",
+                "fundamental analysis"
+            ]
+        },
+        {
+            "title": "Risk Management in Trading",
+            "summary": "This chapter focuses on the importance of risk management in trading, including strategies to mitigate risks and ensure profitability.",
+            "keywords": [
+                "risk management",
+                "strategies",
+                "profitability"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "chapters": [
+        {
+            "title": "The Financial World: An Overview",
+            "summary": "This chapter provides an introduction to the financial world, its key components, and its importance in the global economy.",
+            "keywords": [
+                "financial world",
+                "global economy",
+                "key components"
+            ]
+        },
+        {
+            "title": "Male-Dominated Industries: A Historical Perspective",
+            "summary": "This chapter explores the historical context of male domination in various industries, focusing on the financial sector. It discusses the factors that have contributed to this phenomenon.",
+            "keywords": [
+                "male-dominated",
+                "historical context",
+                "financial sector"
+            ]
+        },
+        {
+            "title": "Systemic Barriers in the Financial Industry",
+            "summary": "This chapter delves into the systemic barriers that exist within the financial industry, highlighting the challenges faced by underrepresented groups and the impact of these barriers on career progression and diversity.",
+            "keywords": [
+                "systemic barriers",
+                "financial industry",
+                "diversity",
+                "career progression"
+            ]
+        },
+        {
+            "title": "Breaking the Glass Ceiling in Finance",
+            "summary": "This chapter focuses on the efforts and initiatives aimed at breaking the glass ceiling in the financial world. It discusses the role of policies, mentorship programs, and advocacy in promoting gender equality and inclusion.",
+            "keywords": [
+                "glass ceiling",
+                "gender equality",
+                "mentorship programs",
+                "advocacy"
+            ]
+        }
+    ]
+}

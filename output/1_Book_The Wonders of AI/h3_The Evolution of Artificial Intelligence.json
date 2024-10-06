@@ -1,0 +1,80 @@
+{
+    "subsections": [
+        {
+            "title": "AI History",
+            "summary": "An overview of the origins and development of artificial intelligence, from theoretical foundations to practical applications.",
+            "keywords": [
+                "origins",
+                "development",
+                "theoretical foundations",
+                "practical applications"
+            ]
+        },
+        {
+            "title": "Milestones",
+            "summary": "Key achievements and breakthroughs in AI technology, highlighting significant events that have shaped the field.",
+            "keywords": [
+                "achievements",
+                "breakthroughs",
+                "significant events"
+            ]
+        },
+        {
+            "title": "Pioneers",
+            "summary": "Influential figures who have contributed to the advancement of artificial intelligence, including their notable works and impacts.",
+            "keywords": [
+                "influential figures",
+                "notable works",
+                "impacts"
+            ]
+        },
+        {
+            "title": "Technological Advancements",
+            "summary": "Major technological innovations that have driven the evolution of AI, from early computing to modern machine learning.",
+            "keywords": [
+                "technological innovations",
+                "early computing",
+                "modern machine learning"
+            ]
+        },
+        {
+            "title": "The Origins of AI: A Historical Overview",
+            "summary": "This subsection explores the early beginnings of artificial intelligence, including the pioneering work of Alan Turing and the development of the first AI programs.",
+            "keywords": [
+                "AI history",
+                "Alan Turing",
+                "early AI programs"
+            ]
+        },
+        {
+            "title": "Milestones in AI Development",
+            "summary": "A detailed look at the significant milestones in the evolution of AI, from the first neural networks to the development of expert systems and modern machine learning algorithms.",
+            "keywords": [
+                "milestones",
+                "neural networks",
+                "expert systems",
+                "machine learning"
+            ]
+        },
+        {
+            "title": "Technological Advancements in AI",
+            "summary": "This subsection discusses the technological innovations that have propelled AI forward, including advancements in hardware, software, and data processing capabilities.",
+            "keywords": [
+                "technological advancements",
+                "hardware",
+                "software",
+                "data processing"
+            ]
+        },
+        {
+            "title": "The Impact of AI on Modern Society",
+            "summary": "An examination of how AI has transformed various aspects of modern society, including healthcare, finance, and everyday life.",
+            "keywords": [
+                "AI impact",
+                "modern society",
+                "healthcare",
+                "finance"
+            ]
+        }
+    ]
+}

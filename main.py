@@ -119,6 +119,7 @@ class BookGenerator:
             console.print(f'h1_output_path does not exist: {self.h1_output_path}', style="blue")
             exit()
 
+
     def generate_h3_headings(self):
 
         if os.path.exists(self.h2_output_path): 
@@ -164,6 +165,7 @@ class BookGenerator:
             console.print(f'h2_output_path does not exist: {self.h2_output_path}', style="blue")
             exit()
 
+
     def generate_h4_headings(self):
 
         if os.path.exists(self.h3_output_path):
@@ -203,6 +205,7 @@ class BookGenerator:
                     self.write_json_to_file(self.h4_response, os.path.join(self.output_dir, 'h4_' + str(h3['title']) + '.json'))
                 
                 toc_json = '{ "chapters": ' + json.dumps(toc, ensure_ascii=True, indent=4) + '}'
+                toc_json = toc_json.replace("\n", "").replace("\\", "")
                 self.write_json_to_file(toc_json, os.path.join(self.h4_output_path))
 
         else:
@@ -278,7 +281,7 @@ class BookGenerator:
             with open(file_path, 'a', encoding='utf-8') as file:
                 json.dump(data, file, ensure_ascii=False, indent=4)
 
-    def generate_book_content(self, toc, system_prompt, prompts):
+    def generate_book_content(self):
         """Generate the book content based on the table of contents."""
         for h1 in toc['headings']:
             # Generate content for H1

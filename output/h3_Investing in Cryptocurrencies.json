@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Cryptocurrency Investment",
+            "summary": "An overview of the basics of cryptocurrency investment, including how to get started and what to consider before investing.",
+            "keywords": [
+                "investment",
+                "cryptocurrency",
+                "getting started"
+            ]
+        },
+        {
+            "title": "Effective Strategies for Cryptocurrency Investment",
+            "summary": "Exploring various investment strategies such as diversification, long-term holding, and day trading in the cryptocurrency market.",
+            "keywords": [
+                "strategies",
+                "diversification",
+                "long-term holding",
+                "day trading"
+            ]
+        },
+        {
+            "title": "Understanding the Risks of Cryptocurrency Investment",
+            "summary": "A detailed analysis of the risks associated with investing in cryptocurrencies, including market volatility, regulatory uncertainty, and security threats.",
+            "keywords": [
+                "risks",
+                "market volatility",
+                "regulatory uncertainty",
+                "security threats"
+            ]
+        },
+        {
+            "title": "Potential Rewards of Investing in Cryptocurrencies",
+            "summary": "Discussing the potential rewards and benefits of investing in cryptocurrencies, such as high returns, financial freedom, and early adoption advantages.",
+            "keywords": [
+                "rewards",
+                "high returns",
+                "financial freedom",
+                "early adoption"
+            ]
+        }
+    ]
+}

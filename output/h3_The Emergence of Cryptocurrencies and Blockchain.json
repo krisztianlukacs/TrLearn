@@ -1,0 +1,41 @@
+{
+    "chapters": [
+        {
+            "title": "The Rise of Digital Finance",
+            "summary": "This chapter explores the advent of digital finance, its impact on traditional financial systems, and the advantages it brings to consumers and businesses alike.",
+            "keywords": [
+                "digital finance",
+                "financial systems",
+                "advantages"
+            ]
+        },
+        {
+            "title": "Evolution of Financial Technologies",
+            "summary": "This chapter delves into the evolution of financial technologies, highlighting key milestones and innovations that have shaped the industry over the years.",
+            "keywords": [
+                "evolution",
+                "financial technologies",
+                "innovations"
+            ]
+        },
+        {
+            "title": "Introduction to Cryptocurrencies",
+            "summary": "This chapter provides a comprehensive introduction to cryptocurrencies, explaining their origins, types, and the underlying principles that govern their operation.",
+            "keywords": [
+                "cryptocurrencies",
+                "origins",
+                "principles"
+            ]
+        },
+        {
+            "title": "Understanding Blockchain Technology",
+            "summary": "This chapter offers an in-depth look at blockchain technology, its architecture, security features, and the wide range of applications it supports beyond cryptocurrencies.",
+            "keywords": [
+                "blockchain",
+                "architecture",
+                "security",
+                "applications"
+            ]
+        }
+    ]
+}

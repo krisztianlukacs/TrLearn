@@ -1,0 +1,40 @@
+{
+    "subsections": [
+        {
+            "title": "AI Pioneers",
+            "summary": "An overview of the early contributors who laid the foundation for artificial intelligence.",
+            "keywords": [
+                "AI history",
+                "founders",
+                "pioneers"
+            ]
+        },
+        {
+            "title": "Alan Turing",
+            "summary": "The life and contributions of Alan Turing, including his work on the Turing test and computational theory.",
+            "keywords": [
+                "Alan Turing",
+                "Turing test",
+                "computational theory"
+            ]
+        },
+        {
+            "title": "John McCarthy",
+            "summary": "A detailed look at John McCarthy's role in developing LISP and his contributions to AI theory.",
+            "keywords": [
+                "John McCarthy",
+                "LISP",
+                "AI theory"
+            ]
+        },
+        {
+            "title": "Marvin Minsky",
+            "summary": "Exploring the contributions of Marvin Minsky, co-founder of the MIT AI Lab and pioneer in robotics.",
+            "keywords": [
+                "Marvin Minsky",
+                "MIT AI Lab",
+                "robotics"
+            ]
+        }
+    ]
+}

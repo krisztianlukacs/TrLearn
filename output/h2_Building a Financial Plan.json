@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Financial Planning",
+            "summary": "This chapter provides an overview of financial planning, its importance, and the key components involved in creating a successful financial plan.",
+            "keywords": [
+                "financial planning",
+                "importance",
+                "components"
+            ]
+        },
+        {
+            "title": "Digital Investment Strategies",
+            "summary": "This chapter explores the world of digital investment, including the various tools and platforms available, and strategies for maximizing returns in the digital age.",
+            "keywords": [
+                "digital investment",
+                "tools",
+                "platforms",
+                "strategies"
+            ]
+        },
+        {
+            "title": "Managing Personal Finance",
+            "summary": "This chapter focuses on personal finance management, including budgeting, saving, and debt management strategies to achieve financial stability.",
+            "keywords": [
+                "personal finance",
+                "budgeting",
+                "saving",
+                "debt management"
+            ]
+        },
+        {
+            "title": "Setting and Achieving Financial Goals",
+            "summary": "This chapter discusses the importance of goal setting in financial planning, providing practical steps for setting, tracking, and achieving financial goals.",
+            "keywords": [
+                "goal setting",
+                "financial goals",
+                "tracking",
+                "achievement"
+            ]
+        }
+    ]
+}

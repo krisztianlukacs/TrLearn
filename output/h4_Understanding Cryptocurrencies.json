@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "What are Cryptocurrencies?",
+            "summary": "This chapter explores the concept of cryptocurrencies, their origins, and how they function as a new form of digital currency.",
+            "keywords": [
+                "cryptocurrencies",
+                "digital currencies",
+                "decentralized finance"
+            ]
+        },
+        {
+            "title": "The Emergence of Digital Currencies",
+            "summary": "Discusses the history and evolution of digital currencies, from early attempts to the rise of Bitcoin and other altcoins.",
+            "keywords": [
+                "digital currencies",
+                "history",
+                "evolution",
+                "Bitcoin"
+            ]
+        },
+        {
+            "title": "Understanding Blockchain Technology",
+            "summary": "Provides an in-depth look at blockchain technology, explaining its core principles, how it works, and its applications beyond cryptocurrencies.",
+            "keywords": [
+                "blockchain",
+                "technology",
+                "decentralization",
+                "distributed ledger"
+            ]
+        },
+        {
+            "title": "Blockchain and Cryptocurrency Integration",
+            "summary": "Explores how blockchain technology enables the functioning of cryptocurrencies, including security, transaction verification, and mining processes.",
+            "keywords": [
+                "blockchain",
+                "cryptocurrencies",
+                "security",
+                "transaction verification"
+            ]
+        }
+    ]
+}

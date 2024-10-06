@@ -1,0 +1,52 @@
+{
+    "chapters": [
+        {
+            "title": "The Rise of Geraldine Weiss",
+            "summary": "Geraldine Weiss, known as the 'Grand Dame of Dividends,' was one of the first women to make a name for herself in the male-dominated world of investing. She started her career in the 1960s and became famous for her dividend-focused investment newsletter, 'Investment Quality Trends.' Her achievements include accurately predicting stock market trends and providing valuable investment advice that benefited her subscribers significantly.",
+            "keywords": [
+                "Geraldine Weiss",
+                "dividends",
+                "Investment Quality Trends",
+                "stock market trends",
+                "investment advice"
+            ]
+        },
+        {
+            "title": "Muriel Siebert's Groundbreaking Career",
+            "summary": "Muriel Siebert was the first woman to own a seat on the New York Stock Exchange (NYSE) in 1967. She broke numerous barriers in the financial industry and founded Muriel Siebert & Co., a brokerage firm. Her achievements include advocating for financial literacy and serving as the Superintendent of Banks for the State of New York. Siebert's contributions paved the way for future generations of women investors.",
+            "keywords": [
+                "Muriel Siebert",
+                "New York Stock Exchange",
+                "financial literacy",
+                "brokerage firm",
+                "Superintendent of Banks"
+            ]
+        },
+        {
+            "title": "Abby Joseph Cohen: Wall Street's Leading Strategist",
+            "summary": "Abby Joseph Cohen is a renowned economist and investment strategist who made significant contributions to the financial industry. She was the first woman to be appointed as a partner at Goldman Sachs in 1990. Her achievements include accurately predicting the bull market of the 1990s and providing insightful economic analysis. Cohen's work has influenced investment strategies and market trends globally.",
+            "keywords": [
+                "Abby Joseph Cohen",
+                "economist",
+                "investment strategist",
+                "Goldman Sachs",
+                "bull market",
+                "economic analysis"
+            ]
+        },
+        {
+            "title": "Mary Meeker: The Queen of the Internet",
+            "summary": "Mary Meeker, often referred to as the 'Queen of the Internet,' is a venture capitalist and former Wall Street securities analyst. She is known for her comprehensive annual 'Internet Trends' report, which provides valuable insights into technological advancements and market trends. Meeker's achievements include successful investments in companies like Facebook, Airbnb, and Spotify, making her a prominent figure in the tech investment landscape.",
+            "keywords": [
+                "Mary Meeker",
+                "venture capitalist",
+                "Internet Trends",
+                "technological advancements",
+                "market trends",
+                "Facebook",
+                "Airbnb",
+                "Spotify"
+            ]
+        }
+    ]
+}
