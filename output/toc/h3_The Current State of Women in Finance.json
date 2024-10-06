@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Underrepresentation of Women in Finance",
+            "summary": "This chapter delves into the statistical and anecdotal evidence of the underrepresentation of women in the finance industry, highlighting the gaps in leadership and professional roles.",
+            "keywords": [
+                "underrepresentation",
+                "gender gap",
+                "leadership roles"
+            ]
+        },
+        {
+            "title": "The Financial World: A Male-Dominated Industry",
+            "summary": "An analysis of the historical and contemporary factors that contribute to the male-dominated nature of the financial world, exploring cultural and systemic barriers.",
+            "keywords": [
+                "financial world",
+                "male-dominated",
+                "systemic barriers"
+            ]
+        },
+        {
+            "title": "Current State of Women in Finance Leadership",
+            "summary": "This chapter examines the current state of women in leadership positions within the finance industry, discussing recent trends, challenges, and initiatives aimed at improving diversity.",
+            "keywords": [
+                "leadership",
+                "current state",
+                "diversity initiatives"
+            ]
+        },
+        {
+            "title": "The Impact of Gender Bias in the Financial Sector",
+            "summary": "An exploration of how gender bias impacts the career trajectories and opportunities for women in the financial sector, including case studies and personal accounts.",
+            "keywords": [
+                "gender bias",
+                "career trajectories",
+                "opportunities"
+            ]
+        }
+    ]
+}

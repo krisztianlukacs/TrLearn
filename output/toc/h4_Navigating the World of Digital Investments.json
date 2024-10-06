@@ -1,0 +1,54 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Digital Investments",
+            "summary": "This chapter provides an overview of digital investments, including their benefits, risks, and how they differ from traditional investments.",
+            "keywords": [
+                "digital investments",
+                "benefits",
+                "risks",
+                "traditional investments"
+            ]
+        },
+        {
+            "title": "The Rise of Cryptocurrencies",
+            "summary": "Explore the world of cryptocurrencies, from Bitcoin to Ethereum, and understand their role in the modern investment landscape.",
+            "keywords": [
+                "cryptocurrencies",
+                "Bitcoin",
+                "Ethereum",
+                "investment landscape"
+            ]
+        },
+        {
+            "title": "Leveraging Robo-Advisors",
+            "summary": "Learn about the advantages of using robo-advisors for automated and efficient investment management.",
+            "keywords": [
+                "robo-advisors",
+                "automated investment",
+                "management",
+                "efficiency"
+            ]
+        },
+        {
+            "title": "Mastering Online Trading",
+            "summary": "Discover the tools and strategies for successful online trading, including platforms, techniques, and best practices.",
+            "keywords": [
+                "online trading",
+                "platforms",
+                "techniques",
+                "best practices"
+            ]
+        },
+        {
+            "title": "Diverse Investment Options in the Digital Age",
+            "summary": "Examine the various investment options available in the digital age, such as crowdfunding, peer-to-peer lending, and more.",
+            "keywords": [
+                "investment options",
+                "crowdfunding",
+                "peer-to-peer lending",
+                "digital age"
+            ]
+        }
+    ]
+}

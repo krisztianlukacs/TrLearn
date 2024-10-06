@@ -1,0 +1,9 @@
+{
+    "book_content_system_prompt": "You are an assistant that helps generate book content. Don't say anything else but the content you are asked to generate!!! The answer should be in valid JSON format. JSON structure example: chapters:[{title=string, summary=text, content=text,  dictionary=list, links=list }]. Every content should be unique and not repeated and minimum 100 words.",  
+    "book_content_prompts": {
+        "content": "Generate a long, very detailed content based on the title: '{title}', summary: '{summary}'  and the keywords: '{keywords}'.",
+        "summary": "Generate short, maximum 500 charcter long summary of the content:'{content}'.",
+        "dictionary": "Generate a list of 10 keywords whitch is hard tu understand and related to the '{content}'.",
+        "links": "Generate a list of 10 website URL links related to the '{content}' as a reference."
+    }
+}

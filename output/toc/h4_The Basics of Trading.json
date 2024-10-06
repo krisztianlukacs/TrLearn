@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Trading",
+            "summary": "This chapter provides an overview of the basics of trading, including definitions, key terms, and the importance of trading in the financial markets.",
+            "keywords": [
+                "trading",
+                "financial markets",
+                "investment"
+            ]
+        },
+        {
+            "title": "Trading Strategies",
+            "summary": "This chapter delves into various trading strategies, including day trading, swing trading, and long-term investing. It also covers risk management and the importance of a diversified portfolio.",
+            "keywords": [
+                "trading strategies",
+                "day trading",
+                "swing trading",
+                "risk management"
+            ]
+        },
+        {
+            "title": "Understanding Trading Platforms",
+            "summary": "This chapter explores different trading platforms, their features, and how to choose the right one for your needs. It also discusses the role of brokers and the impact of technology on trading.",
+            "keywords": [
+                "trading platforms",
+                "brokers",
+                "technology",
+                "trading tools"
+            ]
+        },
+        {
+            "title": "Advanced Trading Techniques",
+            "summary": "This chapter introduces advanced trading techniques, including algorithmic trading, options trading, and arbitrage. It also discusses the use of technical analysis and fundamental analysis in decision-making.",
+            "keywords": [
+                "advanced trading",
+                "algorithmic trading",
+                "options trading",
+                "technical analysis"
+            ]
+        }
+    ]
+}

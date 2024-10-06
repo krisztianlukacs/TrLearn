@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Economic Consequences of Gender Imbalance",
+            "summary": "This chapter explores the various economic consequences that arise from gender imbalance in the financial sector. It delves into how the lack of diversity can impact productivity, innovation, and overall economic performance.",
+            "keywords": [
+                "gender imbalance",
+                "economic consequences",
+                "productivity",
+                "innovation"
+            ]
+        },
+        {
+            "title": "Gender Imbalance in the Financial Sector",
+            "summary": "This chapter provides an in-depth analysis of the current state of gender imbalance in the financial sector. It discusses the representation of women in leadership roles, the gender wage gap, and the barriers that contribute to this imbalance.",
+            "keywords": [
+                "gender imbalance",
+                "financial sector",
+                "leadership roles",
+                "gender wage gap"
+            ]
+        },
+        {
+            "title": "Impact on the Financial Sector",
+            "summary": "This chapter examines the specific impacts of gender imbalance on the financial sector. It covers how gender diversity affects decision-making processes, risk management, and the overall stability of financial institutions.",
+            "keywords": [
+                "financial sector",
+                "gender diversity",
+                "decision-making",
+                "risk management"
+            ]
+        },
+        {
+            "title": "Economic Growth and Gender Equality",
+            "summary": "This chapter explores the relationship between economic growth and gender equality in the financial sector. It discusses how addressing gender imbalance can lead to increased economic growth, improved financial performance, and a more inclusive economy.",
+            "keywords": [
+                "economic growth",
+                "gender equality",
+                "financial performance",
+                "inclusive economy"
+            ]
+        }
+    ]
+}

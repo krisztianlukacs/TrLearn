@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Blockchain",
+            "summary": "This chapter provides an in-depth look into the concept of blockchain, explaining its core principles and how it operates.",
+            "keywords": [
+                "blockchain",
+                "technology",
+                "decentralization",
+                "cryptocurrency"
+            ]
+        },
+        {
+            "title": "The Evolution of Blockchain Technology",
+            "summary": "This chapter explores the technological advancements that have shaped blockchain, from its early days to its current state.",
+            "keywords": [
+                "blockchain",
+                "technology",
+                "innovation",
+                "evolution"
+            ]
+        },
+        {
+            "title": "The Origins of Blockchain",
+            "summary": "This chapter delves into the historical context of blockchain, tracing its roots back to the initial ideas and the creation of Bitcoin.",
+            "keywords": [
+                "blockchain",
+                "origins",
+                "Bitcoin",
+                "Satoshi Nakamoto"
+            ]
+        },
+        {
+            "title": "Overview of Blockchain Applications",
+            "summary": "This chapter offers a comprehensive overview of the various applications of blockchain technology across different industries.",
+            "keywords": [
+                "blockchain",
+                "overview",
+                "applications",
+                "industry"
+            ]
+        }
+    ]
+}

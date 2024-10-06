@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Financial Independence",
+            "summary": "This chapter explores the concept of financial independence, its importance, and how it can be achieved through various means, including traditional investments and emerging financial instruments like cryptocurrency.",
+            "keywords": [
+                "financial independence",
+                "retirement",
+                "passive income",
+                "investment"
+            ]
+        },
+        {
+            "title": "Introduction to Cryptocurrency",
+            "summary": "This chapter provides an overview of cryptocurrency, its history, types, and how it differs from traditional currencies. It also discusses the potential of cryptocurrency as a tool for achieving financial independence.",
+            "keywords": [
+                "cryptocurrency",
+                "blockchain",
+                "Bitcoin",
+                "Ethereum"
+            ]
+        },
+        {
+            "title": "Investment Strategies in Cryptocurrency",
+            "summary": "This chapter delves into various investment strategies specific to cryptocurrency, including HODLing, day trading, and dollar-cost averaging. It also covers risk management and diversification strategies.",
+            "keywords": [
+                "investment strategies",
+                "HODLing",
+                "day trading",
+                "diversification"
+            ]
+        },
+        {
+            "title": "Wealth Accumulation Through Crypto",
+            "summary": "This chapter focuses on how to effectively accumulate wealth using cryptocurrency. It discusses long-term holding, staking, and other methods to grow your crypto portfolio, as well as the tax implications and legal considerations.",
+            "keywords": [
+                "wealth accumulation",
+                "staking",
+                "portfolio growth",
+                "tax implications"
+            ]
+        }
+    ]
+}

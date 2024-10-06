@@ -25,24 +25,37 @@ class BookGenerator:
 
 
         # Paths to input and output files
-        self.output_dir = 'output'
-        self.input_json_path = 'input_book.json'
-        self.toc_prompt_json_path = 'toc_prompt.json'
-        self.toc_output_path = 'output/toc.json'
-        self.book_output_path = 'output/book.json'
-        self.h1_output_path = 'output/h1.json'
-        self.h2_output_path = 'output/h2.json'
-        self.h3_output_path = 'output/h3.json'
-        self.h4_output_path = 'output/h4.json'
 
-        # Read input data and prompts
-        self.book_title, self.book_keywords = self.read_input_json(self.input_json_path)
-        self.system_prompt, self.original_prompts = self.read_prompts_json(self.toc_prompt_json_path)
+        self.toc_output_dir = 'output/toc'
+        self.content_output_dir = 'output/content'
+        
+        self.input_book_json = 'input_book.json' # book title and keywords
+        self.book_data = self.read_json_from_file(self.input_book_json)
+        self.book_title = self.book_data['book_title']
+        self.book_keywords = self.book_data['keywords']
+
+        self.input_toc_json = 'toc_prompt.json' # table of contents
+        self.toc_data = self.read_json_from_file(self.input_toc_json)
+        self.toc_system_prompt = self.toc_data['toc_system_prompt']
+        self.toc_prompts = self.toc_data['toc_prompts']
+        
+        self.book_prompt_json = 'book_prompt.json'
+        self.book_data = self.read_json_from_file(self.book_prompt_json)
+        self.book_content_system_prompt = self.book_data['book_content_system_prompt']
+        self.book_content_prompts = self.book_data['book_content_prompts']
+        
+        
+        self.h1_json = 'h1.json'
+        self.h2_json = 'h2.json'
+        self.h3_json = 'h3.json'
+        self.h4_json = 'h4.json'
+
 
         console.print(f'Book title: {self.book_title}', style="red") 
         console.print(f'Book keywords: {self.book_keywords}', style="yellow")
-        console.print(f'System JSON prompt: {self.system_prompt}', style="purple")
-        console.print(f'Original JSON prompts: {self.original_prompts}', style="green")
+        console.print(f'TOC System JSON prompt: {self.toc_system_prompt}', style="purple")
+        console.print(f'TOC JSON prompts: {self.toc_prompts}', style="green")
+
 
 
     def generate_table_of_contents(self):
@@ -52,7 +65,7 @@ class BookGenerator:
         print('\n' + '-' * 100 + '\n')
         print('Generating TOC ...')
 
-        if not os.path.exists(self.h1_output_path):
+        if not os.path.exists(self.toc_output_dir + '/' + self.h1_json):
 
             # Generate H1 headings
             h1_prompt = self.original_prompts['H1'].format(book_title=self.book_title, book_keywords=self.book_keywords)
@@ -76,10 +89,10 @@ class BookGenerator:
 
     def generate_h2_headings(self):
         
-        if os.path.exists(self.h1_output_path):
-            console.print(f'h1_output_path already exists: {self.h1_output_path}', style="blue")
-            if os.path.exists(self.h2_output_path): 
-                console.print(f'h2_output_path already exists: {self.h2_output_path}', style="blue")
+        if os.path.exists(self.toc_output_dir + '/' + self.h1_json):
+            console.print(f'h1_output_path already exists: {self.toc_output_dir + '/' + self.h1_json}', style="blue")
+            if os.path.exists(self.toc_output_dir + '/' + self.h2_json): 
+                console.print(f'h2_output_path already exists: {self.toc_output_dir + '/' + self.h2_json}', style="blue")
             else:
                 console.print(f'Generating H2 headings...', style="blue")    
                 self.h1_response = json.loads(open(self.h1_output_path, 'r', encoding='utf-8').read())
@@ -110,9 +123,10 @@ class BookGenerator:
                         toc.append(h2_dict)
 
                     print(f'h2_response: {self.h2_response}')
-                    self.write_json_to_file(self.h2_response, os.path.join(self.output_dir, 'h2_' + str(h1['title']) + '.json'))
+                    self.write_json_to_file(self.h2_response, os.path.join(self.toc_output_dir, 'h2_' + str(h1['title']) + '.json'))
                     
                 toc_json = '{ "chapters": ' + json.dumps(toc, ensure_ascii=True, indent=4) + '}'
+                toc_json = toc_json.replace("\n", "").replace("\\", "")
                 self.write_json_to_file(toc_json, os.path.join(self.h2_output_path))
 
         else:
@@ -122,10 +136,10 @@ class BookGenerator:
 
     def generate_h3_headings(self):
 
-        if os.path.exists(self.h2_output_path): 
-            console.print(f'h2_output_path already exists: {self.h2_output_path}', style="blue")
-            if os.path.exists(self.h3_output_path):
-                console.print(f'h3_output_path already exists: {self.h3_output_path}', style="blue")
+        if os.path.exists(self.toc_output_dir + '/' + self.h2_json): 
+            console.print(f'h2_output_path already exists: {self.toc_output_dir + '/' + self.h2_json}', style="blue")
+            if os.path.exists(self.toc_output_dir + '/' + self.h3_json):
+                console.print(f'h3_output_path already exists: {self.toc_output_dir + '/' + self.h3_json}', style="blue")
             else:
                 console.print(f'Generating H3 headings...', style="blue")
                 self.h2_response = json.loads(open(self.h2_output_path, 'r', encoding='utf-8').read())
@@ -156,9 +170,10 @@ class BookGenerator:
                         toc.append(h3_dict)
 
                     print(f'h3_response: {self.h3_response}')
-                    self.write_json_to_file(self.h3_response, os.path.join(self.output_dir, 'h3_' + str(h2['title']) + '.json'))
+                    self.write_json_to_file(self.h3_response, os.path.join(self.toc_output_dir, 'h3_' + str(h2['title']) + '.json'))
                     
                 toc_json = '{ "chapters": ' + json.dumps(toc, ensure_ascii=True, indent=4) + '}'
+                toc_json = toc_json.replace("\n", "").replace("\\", "")
                 self.write_json_to_file(toc_json, os.path.join(self.h3_output_path))
 
         else:
@@ -168,10 +183,10 @@ class BookGenerator:
 
     def generate_h4_headings(self):
 
-        if os.path.exists(self.h3_output_path):
-            console.print(f'h3_output_path already exists: {self.h3_output_path}', style="blue")
-            if os.path.exists(self.h4_output_path):
-                console.print(f'h4_output_path already exists: {self.h4_output_path}', style="blue")
+        if os.path.exists(self.toc_output_dir + '/' + self.h3_json):
+            console.print(f'h3_output_path already exists: {self.toc_output_dir + '/' + self.h3_json}', style="blue")
+            if os.path.exists(self.toc_output_dir + '/' + self.h4_json):
+                console.print(f'h4_output_path already exists: {self.toc_output_dir + '/' + self.h4_json}', style="blue")
             else:
                 console.print(f'Generating H4 headings...', style="blue")
                 self.h3_response = json.loads(open(self.h3_output_path, 'r', encoding='utf-8').read())
@@ -202,7 +217,7 @@ class BookGenerator:
                         toc.append(h4_dict)
 
                     print(f'h4_response: {self.h4_response}')   
-                    self.write_json_to_file(self.h4_response, os.path.join(self.output_dir, 'h4_' + str(h3['title']) + '.json'))
+                    self.write_json_to_file(self.h4_response, os.path.join(self.toc_output_dir, 'h4_' + str(h3['title']) + '.json'))
                 
                 toc_json = '{ "chapters": ' + json.dumps(toc, ensure_ascii=True, indent=4) + '}'
                 toc_json = toc_json.replace("\n", "").replace("\\", "")
@@ -213,9 +228,14 @@ class BookGenerator:
             exit()
             
 
-    def call_mistral_model(self, prompt): 
-        console.print(f'System prompt: {self.system_prompt}', style="purple")
-        console.print(f'AI actual prompt: {prompt}', style="purple")
+    def call_mistral_model(self, prompt, phase = 'toc'): 
+        if phase == 'toc':
+            system_prompt = self.toc_system_prompt
+        elif phase == 'book':
+            system_prompt = self.book_content_system_prompt
+
+        console.print(f'System prompt: {system_prompt}', style="purple")
+        console.print(f'Prompt: {prompt}', style="purple")
 
         
         chat_response = self.client.chat.complete(
@@ -223,7 +243,7 @@ class BookGenerator:
             messages = [
             {
                 "role": "system",
-                "content": self.system_prompt
+                "content": system_prompt
             },
             {
                 "role": "user",
@@ -283,39 +303,78 @@ class BookGenerator:
 
     def generate_book_content(self):
         """Generate the book content based on the table of contents."""
-        for h1 in toc['headings']:
-            # Generate content for H1
-            h1_prompt = system_prompt + "\n" + prompts['H1'].format(keywords=h1['summary'])
-            h1_content = self.call_mistral_model(h1_prompt)
-            h1['content'] = h1_content
+        print(f'Generating book content...')
 
-            for h2 in h1['headings']:
-                # Generate content for H2
-                h2_prompt = system_prompt + "\n" + prompts['H2'].format(
-                    chapter_title=h1['title'],
-                    keywords=h2['summary']
-                )
-                h2_content = self.call_mistral_model(h2_prompt)
-                h2['content'] = h2_content
+        if os.path.exists(self.toc_output_dir + '/' + self.h4_json):
+            self.h4_response = json.loads(open(self.toc_output_dir + '/' + self.h4_json, 'r', encoding='utf-8').read())
+            key1 = list(self.h4_response.keys())[0]
+            self.h4_headings = self.h4_response[key1]
+            #print(f'h4_headings: {self.h4_headings}')
 
-                for h3 in h2['headings']:
-                    # Generate content for H3
-                    h3_prompt = system_prompt + "\n" + prompts['H3'].format(
-                        section_title=h2['title'],
-                        keywords=h3['summary']
-                    )
-                    h3_content = self.call_mistral_model(h3_prompt)
-                    h3['content'] = h3_content
 
-                    for h4 in h3['headings']:
-                        # Generate content for H4
-                        h4_prompt = system_prompt + "\n" + prompts['H4'].format(
-                            subsection_title=h3['title'],
-                            keywords=h4['summary']
-                        )
-                        h4_content = self.call_mistral_model(h4_prompt)
-                        h4['content'] = h4_content
-        return toc
+            for h4  in self.h4_headings:
+                # Generate content for H1
+                h4_dict = {'title': h4['title'], 'summary': h4['summary'], 'keywords': h4['keywords']}
+                
+                h4_content_prompt = self.book_content_prompts[ 'content'].format(title=h4['title'], summary=h4['summary'], keywords=h4['keywords'])
+                print(f'h4_content_prompt: {h4_content_prompt}')
+
+                h4_content = self.call_mistral_model(h4_content_prompt, phase='book')
+                h4_content = h4_content.replace("```json", "").replace("```", "").strip()
+                h4_content = h4_content.replace("\n", "").replace("\\", "")
+                h4_content = json.loads(h4_content)
+                print(f'h4_content: {h4_content}')
+                content = h4_content['chapters'][0]['content']
+                print(f'content: {content}')
+                input("Press ENTER to continue...")
+                
+                h4_summary_prompt = self.book_content_prompts['summary'].format(content=content)
+                print(f'h4_summary_prompt: {h4_summary_prompt}')
+                
+                h4_summary = self.call_mistral_model(h4_summary_prompt, phase='book')
+                h4_summary = h4_summary.replace("```json", "").replace("```", "").strip()
+                h4_summary = h4_summary.replace("\n", "").replace("\\", "")
+                h4_summary = json.loads(h4_summary)
+                print(f'h4_summary: {h4_summary}')
+                summary = h4_summary['chapters'][0]['summary']
+                print(f'summary: {summary}')
+                input("Press ENTER to continue...")
+                h4_dictionary_prompt = self.book_content_prompts['dictionary'].format(content=content)
+                print(f'h4_dictionary_prompt: {h4_dictionary_prompt}')
+                h4_dictionary = self.call_mistral_model(h4_dictionary_prompt, phase='book')
+                h4_dictionary = h4_dictionary.replace("```json", "").replace("```", "").strip()
+                h4_dictionary = h4_dictionary.replace("\n", "").replace("\\", "")
+                h4_dictionary = json.loads(h4_dictionary)
+                print(f'h4_dictionary: {h4_dictionary}')
+
+                k1 = list(h4_dictionary.keys())[0]
+                dictionary = h4_dictionary[k1]
+                print(f'dictionary: {dictionary}')
+                input("Press ENTER to continue...")
+
+                h4_links_prompt = self.book_content_prompts['links'].format(content=content)
+                print(f'h4_links_prompt: {h4_links_prompt}')
+                h4_links = self.call_mistral_model(h4_links_prompt, phase='book')
+                h4_links = h4_links.replace("```json", "").replace("```", "").strip()   
+                h4_links = h4_links.replace("\n", "").replace("\\", "")
+                h4_links = json.loads(h4_links)
+                print(f'h4_links: {h4_links}')
+                links = h4_links['chapters'][0]['links']
+                print(f'links: {links}')
+                input("Press ENTER to continue...")
+
+                h4['content'] = content
+                h4['summary'] = summary
+                h4['dictionary'] = dictionary
+                h4['links'] = links
+
+                filename = 'h4_' + str(h4['title']) + '.json'
+                self.write_json_to_file(h4, os.path.join(self.content_output_dir, filename), overwrite=True)
+                print(f'Content generated: {filename} at {self.content_output_dir}')
+                input("Press ENTER to continue...")
+                
+
+            
 
     def parse_response(self, keyword, response):
         try:
@@ -339,23 +398,16 @@ class BookGenerator:
 
         # Generate table of contents
         self.generate_table_of_contents()
-        exit()
         # Generate book content
-        book = self.generate_book_content(toc, system_prompt, prompts)
-        self.write_json_to_file(book, self.book_output_path)
+        self.generate_book_content()
+        
 
 
-    def read_input_json(self, file_path):
-        """Read input JSON file containing the book title and keywords."""
+    def read_json_from_file(self, file_path):
+        """Read input JSON file """
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
-        return data['book_title'], data['keywords']
-
-    def read_prompts_json(self, file_path):
-        """Read JSON file containing prompts for each heading level and the system prompt."""
-        with open(file_path, 'r', encoding='utf-8') as file:
-            prompts = json.load(file)
-        return prompts['system_prompt'], prompts['prompts']
+        return data
 
 
 if __name__ == '__main__':

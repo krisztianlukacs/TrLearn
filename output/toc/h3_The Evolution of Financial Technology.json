@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "The Dawn of Digital Finance",
+            "summary": "This chapter explores the origins and early developments of digital finance, highlighting key innovations and their impact on traditional financial systems.",
+            "keywords": [
+                "digital finance",
+                "innovation",
+                "traditional finance"
+            ]
+        },
+        {
+            "title": "Evolution of Financial Technology",
+            "summary": "This chapter delves into the evolution of financial technology, tracing its growth from basic electronic transactions to complex algorithms and AI-driven systems.",
+            "keywords": [
+                "financial technology",
+                "evolution",
+                "AI",
+                "algorithms"
+            ]
+        },
+        {
+            "title": "The Rise of Mobile Banking",
+            "summary": "This chapter discusses the emergence and widespread adoption of mobile banking, focusing on its convenience, security features, and the shift in consumer behavior.",
+            "keywords": [
+                "mobile banking",
+                "consumer behavior",
+                "convenience",
+                "security"
+            ]
+        },
+        {
+            "title": "Future Trends in Financial Technology",
+            "summary": "This chapter looks ahead to the future of financial technology, exploring emerging trends such as blockchain, decentralized finance, and the potential for further disruption in the industry.",
+            "keywords": [
+                "financial technology",
+                "future trends",
+                "blockchain",
+                "decentralized finance"
+            ]
+        }
+    ]
+}

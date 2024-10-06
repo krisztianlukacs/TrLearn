@@ -1,0 +1,49 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Financial Literacy",
+            "summary": "This chapter provides an overview of financial literacy and its importance in making informed financial decisions. It discusses the basic concepts and principles of financial education.",
+            "keywords": [
+                "financial literacy",
+                "financial education",
+                "informed decisions"
+            ]
+        },
+        {
+            "title": "Financial Literacy in the Digital Age",
+            "summary": "This chapter explores the impact of the digital age on financial literacy. It discusses how technology has changed the way we manage money and the new skills required to navigate the digital financial landscape.",
+            "keywords": [
+                "digital age",
+                "technology",
+                "financial management"
+            ]
+        },
+        {
+            "title": "Budgeting in the Digital Era",
+            "summary": "This chapter focuses on budgeting strategies in the digital age. It covers the use of digital tools and apps for creating and managing budgets, tracking expenses, and achieving financial goals.",
+            "keywords": [
+                "budgeting",
+                "digital tools",
+                "expense tracking"
+            ]
+        },
+        {
+            "title": "Saving and Investing in a Tech-Driven World",
+            "summary": "This chapter delves into the importance of saving and investing in the digital age. It discusses various digital platforms and tools that facilitate saving and investing, and how to make the most of them.",
+            "keywords": [
+                "saving",
+                "investing",
+                "digital platforms"
+            ]
+        },
+        {
+            "title": "Risk Management in the Digital Financial Landscape",
+            "summary": "This chapter addresses the risks associated with digital financial management. It covers topics such as online fraud, data security, and strategies for minimizing financial risks in the digital age.",
+            "keywords": [
+                "risk management",
+                "online fraud",
+                "data security"
+            ]
+        }
+    ]
+}

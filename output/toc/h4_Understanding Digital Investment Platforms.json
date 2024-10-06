@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Digital Investment",
+            "summary": "This chapter explores the concept of digital investment, its evolution, and how it has revolutionized the financial sector.",
+            "keywords": [
+                "digital investment",
+                "financial technology",
+                "evolution",
+                "revolution"
+            ]
+        },
+        {
+            "title": "Understanding Investment Platforms",
+            "summary": "This chapter delves into the various types of investment platforms available, their features, and how they facilitate investment decisions.",
+            "keywords": [
+                "platforms",
+                "investment decisions",
+                "features",
+                "types"
+            ]
+        },
+        {
+            "title": "Wealth Growth through Digital Investment",
+            "summary": "This chapter discusses strategies for wealth growth using digital investment tools and platforms, including risk management and portfolio diversification.",
+            "keywords": [
+                "wealth growth",
+                "strategies",
+                "risk management",
+                "portfolio diversification"
+            ]
+        },
+        {
+            "title": "Women and Digital Investment",
+            "summary": "This chapter focuses on the role of women in digital investment, highlighting their participation, challenges they face, and the unique opportunities available to them.",
+            "keywords": [
+                "women",
+                "digital investment",
+                "participation",
+                "opportunities"
+            ]
+        }
+    ]
+}

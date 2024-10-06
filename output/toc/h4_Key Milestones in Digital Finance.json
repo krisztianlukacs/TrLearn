@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "The Evolution of Digital Finance",
+            "summary": "This chapter explores the historical development of digital finance, from its inception to its current state. It covers the key innovations and technological advancements that have shaped the industry.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "innovation",
+                "technology"
+            ]
+        },
+        {
+            "title": "The Birth of Electronic Banking",
+            "summary": "This chapter delves into the origins and growth of electronic banking. It discusses the transition from traditional banking methods to digital platforms and the impact this shift has had on the financial sector.",
+            "keywords": [
+                "electronic banking",
+                "digital platforms",
+                "financial sector",
+                "traditional banking"
+            ]
+        },
+        {
+            "title": "The Rise of Online Transactions",
+            "summary": "This chapter examines the emergence and significance of online transactions. It explores how the internet has revolutionized the way financial transactions are conducted and the benefits and challenges associated with this transformation.",
+            "keywords": [
+                "online transactions",
+                "internet",
+                "financial transactions",
+                "revolution"
+            ]
+        },
+        {
+            "title": "Milestones in Digital Finance Innovation",
+            "summary": "This chapter highlights key milestones in the evolution of digital finance, including the introduction of electronic banking and the advent of online transactions. It discusses the pivotal moments that have defined the industry and shaped its future.",
+            "keywords": [
+                "digital finance",
+                "milestones",
+                "electronic banking",
+                "online transactions"
+            ]
+        }
+    ]
+}

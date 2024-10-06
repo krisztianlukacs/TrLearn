@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Personal Finance",
+            "summary": "This chapter introduces the concept of personal finance, explaining its importance and how it affects daily life. It covers the basics of managing money to achieve financial goals.",
+            "keywords": [
+                "personal finance",
+                "money management",
+                "financial goals"
+            ]
+        },
+        {
+            "title": "Sources of Income and Their Importance",
+            "summary": "This chapter discusses various sources of income, including employment, investments, and passive income. It emphasizes the importance of diversifying income streams for financial stability.",
+            "keywords": [
+                "income",
+                "employment",
+                "investments",
+                "passive income"
+            ]
+        },
+        {
+            "title": "Managing Expenses Effectively",
+            "summary": "This chapter focuses on understanding and managing expenses. It covers budgeting techniques, distinguishing between needs and wants, and strategies to reduce unnecessary spending.",
+            "keywords": [
+                "expenses",
+                "budgeting",
+                "saving",
+                "spending habits"
+            ]
+        },
+        {
+            "title": "Financial Planning for Long-Term Success",
+            "summary": "This chapter delves into the importance of financial planning. It discusses setting financial goals, creating a financial plan, and strategies for achieving long-term financial success.",
+            "keywords": [
+                "financial planning",
+                "financial goals",
+                "long-term success",
+                "strategic planning"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Financial Tracking",
+            "summary": "This chapter provides a detailed overview of what financial tracking is and why it is important for achieving your financial goals.",
+            "keywords": [
+                "tracking",
+                "financial progress",
+                "financial goals"
+            ]
+        },
+        {
+            "title": "Tools for Monitoring Financial Progress",
+            "summary": "This chapter explores various tools and software that can help you monitor your financial progress, including budgeting apps, investment trackers, and more.",
+            "keywords": [
+                "monitoring tools",
+                "financial progress",
+                "budgeting apps"
+            ]
+        },
+        {
+            "title": "Setting Financial Milestones",
+            "summary": "Learn how to set realistic financial milestones and track your progress towards achieving them. This chapter includes practical tips and examples.",
+            "keywords": [
+                "financial milestones",
+                "tracking",
+                "financial progress"
+            ]
+        },
+        {
+            "title": "Analyzing Financial Data",
+            "summary": "This chapter covers the importance of analyzing your financial data regularly and using it to make informed decisions about your financial future.",
+            "keywords": [
+                "financial data",
+                "analysis",
+                "financial progress"
+            ]
+        }
+    ]
+}

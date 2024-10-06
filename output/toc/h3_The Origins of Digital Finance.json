@@ -1,0 +1,38 @@
+{
+    "chapters": [
+        {
+            "title": "The Birth of Digital Finance",
+            "summary": "This chapter explores the early developments and pioneering efforts that laid the foundation for digital finance.",
+            "keywords": [
+                "digital finance",
+                "history"
+            ]
+        },
+        {
+            "title": "Evolution of Electronic Banking",
+            "summary": "This chapter delves into the history and evolution of electronic banking, from ATMs to internet banking.",
+            "keywords": [
+                "electronic banking",
+                "history"
+            ]
+        },
+        {
+            "title": "The Rise of Online Transactions",
+            "summary": "This chapter discusses the emergence and growth of online transactions, including e-commerce and digital payments.",
+            "keywords": [
+                "online transactions",
+                "history"
+            ]
+        },
+        {
+            "title": "Key Milestones in Digital Finance",
+            "summary": "This chapter highlights significant milestones and innovations that have shaped the landscape of digital finance.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "electronic banking",
+                "online transactions"
+            ]
+        }
+    ]
+}

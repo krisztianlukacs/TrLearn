@@ -1,0 +1,46 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to ETFs",
+            "summary": "This chapter provides a comprehensive overview of Exchange-Traded Funds (ETFs), including their definition, history, and benefits.",
+            "keywords": [
+                "ETFs",
+                "definition",
+                "history",
+                "benefits"
+            ]
+        },
+        {
+            "title": "Building a Portfolio with ETFs",
+            "summary": "This chapter explores the steps involved in building a diversified portfolio using ETFs. It covers topics such as selecting the right ETFs, understanding fees, and monitoring performance.",
+            "keywords": [
+                "portfolio",
+                "ETFs",
+                "diversification",
+                "fees",
+                "performance"
+            ]
+        },
+        {
+            "title": "Asset Allocation Strategies",
+            "summary": "This chapter delves into various asset allocation strategies, including strategic, tactical, and dynamic allocation. It discusses how to allocate assets effectively to achieve long-term financial goals.",
+            "keywords": [
+                "asset allocation",
+                "strategic",
+                "tactical",
+                "dynamic",
+                "financial goals"
+            ]
+        },
+        {
+            "title": "Case Studies in ETF Portfolio Management",
+            "summary": "This chapter presents real-world case studies of successful ETF portfolio management. It analyzes different approaches and strategies used by investors to build and manage their portfolios.",
+            "keywords": [
+                "case studies",
+                "ETF portfolio",
+                "investment strategies",
+                "management"
+            ]
+        }
+    ]
+}

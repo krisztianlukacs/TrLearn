@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Cryptocurrency Investments",
+            "summary": "This chapter provides a comprehensive overview of cryptocurrency investments, including their benefits, risks, and the impact on global financial markets.",
+            "keywords": [
+                "cryptocurrency investments",
+                "financial markets",
+                "benefits",
+                "risks"
+            ]
+        },
+        {
+            "title": "Blockchain Technology Explained",
+            "summary": "This chapter delves into the fundamentals of blockchain technology, its origins, and how it underpins the functioning of cryptocurrencies.",
+            "keywords": [
+                "blockchain",
+                "cryptocurrencies",
+                "technology",
+                "origins"
+            ]
+        },
+        {
+            "title": "Types of Cryptocurrencies and Their Uses",
+            "summary": "This chapter explores the various types of cryptocurrencies available in the market, their unique features, and the different use cases they serve.",
+            "keywords": [
+                "types of cryptocurrencies",
+                "market",
+                "features",
+                "use cases"
+            ]
+        },
+        {
+            "title": "Investment Strategies for Cryptocurrencies",
+            "summary": "This chapter offers insights into effective investment strategies for cryptocurrencies, including diversification, risk management, and long-term planning.",
+            "keywords": [
+                "investment strategies",
+                "diversification",
+                "risk management",
+                "long-term planning"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to ETFs",
+            "summary": "An overview of Exchange-Traded Funds (ETFs), their benefits, and how they work.",
+            "keywords": [
+                "ETFs",
+                "introduction",
+                "benefits"
+            ]
+        },
+        {
+            "title": "Strategies for Investing in ETFs",
+            "summary": "Effective strategies for investing in ETFs, including long-term and short-term approaches.",
+            "keywords": [
+                "investing",
+                "strategies",
+                "ETFs"
+            ]
+        },
+        {
+            "title": "Diversification with ETFs",
+            "summary": "How ETFs can be used to diversify an investment portfolio and reduce risk.",
+            "keywords": [
+                "diversification",
+                "ETFs",
+                "risk"
+            ]
+        },
+        {
+            "title": "Building a Portfolio with ETFs",
+            "summary": "Guidelines for constructing a well-balanced portfolio using ETFs, including asset allocation and rebalancing.",
+            "keywords": [
+                "portfolio",
+                "ETFs",
+                "asset allocation"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "The Origins of Digital Finance",
+            "summary": "This chapter explores the early developments in digital finance, including the advent of electronic banking and the first online transaction systems.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "electronic banking",
+                "online transactions"
+            ]
+        },
+        {
+            "title": "The Evolution of Financial Technology",
+            "summary": "This chapter discusses the technological advancements that have shaped digital finance, from the introduction of ATMs to the rise of mobile banking.",
+            "keywords": [
+                "digital finance",
+                "evolution",
+                "financial technology",
+                "mobile banking"
+            ]
+        },
+        {
+            "title": "The Role of the Internet in Digital Finance",
+            "summary": "This chapter examines how the internet revolutionized the financial sector, enabling online banking, e-commerce, and peer-to-peer payments.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "internet",
+                "e-commerce"
+            ]
+        },
+        {
+            "title": "The Emergence of Cryptocurrencies and Blockchain",
+            "summary": "This chapter delves into the recent history of digital finance, focusing on the development of cryptocurrencies and blockchain technology.",
+            "keywords": [
+                "digital finance",
+                "evolution",
+                "cryptocurrencies",
+                "blockchain"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Financial Planning",
+            "summary": "This chapter provides a foundational understanding of financial planning, including its definition, core principles, and the role it plays in personal and professional life.",
+            "keywords": [
+                "financial planning",
+                "definition",
+                "core principles"
+            ]
+        },
+        {
+            "title": "Overview of Financial Planning Components",
+            "summary": "This chapter offers an overview of the key components of financial planning, such as budgeting, investment, insurance, and retirement planning.",
+            "keywords": [
+                "overview",
+                "budgeting",
+                "investment",
+                "insurance",
+                "retirement planning"
+            ]
+        },
+        {
+            "title": "The Significance of Financial Planning",
+            "summary": "This chapter delves into the importance of financial planning in ensuring financial security, achieving long-term goals, and managing risks.",
+            "keywords": [
+                "significance",
+                "financial security",
+                "long-term goals",
+                "risk management"
+            ]
+        },
+        {
+            "title": "Case Studies in Financial Planning",
+            "summary": "This chapter presents real-world case studies to illustrate the practical application of financial planning principles and their impact on individuals and businesses.",
+            "keywords": [
+                "case studies",
+                "practical application",
+                "impact"
+            ]
+        }
+    ]
+}

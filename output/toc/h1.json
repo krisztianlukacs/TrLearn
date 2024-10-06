@@ -1,0 +1,43 @@
+{
+    "chapters": [  
+        {   "title": "Introduction to Digital Investment",    
+            "summary": "An overview of digital investment and its importance for women in the modern world.",    
+            "keywords": ["digital investment", "women", "financial literacy"]  
+        },
+        {
+            "title": "The Underrepresentation of Women in the Financial World",
+            "summary": "The financial world is underrepresented by women, and this situation limits the future prospects of women in many ways.",
+            "keywords": ["underrepresentation of women", "financial world", "future prospects", "limitations"]
+        },
+        {
+            "title": "The Opportunities and Benefits of Cryptocurrency Investments",
+            "summary": "The opportunities and benefits of cryptocurrency investments, as well as investment opportunities available to women.",
+            "keywords": ["cryptocurrency investments", "investment opportunities", "women", "investment"]
+        },
+        {
+            "title": "The History of Digital Finance",
+            "summary": "The history of digital finance and how it has evolved over the past few decades.",
+            "keywords": ["digital finance", "history", "evolution"]
+        },
+        {
+            "title": "Success Stories: Women in Digital Investment",
+            "summary": "Inspirational stories of women who have succeeded in digital investment.",
+            "keywords": ["success stories", "women investors", "digital investment", "inspiration"]
+        },
+        {
+            "title": "Building a Financial Plan",
+            "summary": "Creating a personalized financial plan that incorporates digital investment strategies.",
+            "keywords": ["financial planning", "digital investment", "personal finance", "goal setting"]
+        },
+        {
+            "title": "Understanding Cryptocurrencies",
+            "summary": "Explains the basics of cryptocurrencies, their types, and how women can invest in them.",
+            "keywords": ["cryptocurrencies", "bitcoin", "blockchain", "investment"]
+        },
+        {
+            "title": "Online Trading Platforms",
+            "summary": "A guide to various online trading platforms, their features, and how to choose the right one.",
+            "keywords": ["online trading", "platforms", "stocks", "ETFs"]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "The Origins of Bitcoin",
+            "summary": "This chapter explores the birth of Bitcoin, delving into its creation and the vision behind it.",
+            "keywords": [
+                "bitcoin",
+                "Satoshi Nakamoto",
+                "decentralized currency"
+            ]
+        },
+        {
+            "title": "The Mystery of Satoshi Nakamoto",
+            "summary": "This chapter discusses the enigmatic creator of Bitcoin, Satoshi Nakamoto, and the speculations surrounding their identity.",
+            "keywords": [
+                "bitcoin",
+                "Satoshi Nakamoto",
+                "decentralized currency"
+            ]
+        },
+        {
+            "title": "The Concept of Decentralized Currency",
+            "summary": "This chapter explains the core concept of decentralized currency and how Bitcoin embodies this idea.",
+            "keywords": [
+                "bitcoin",
+                "Satoshi Nakamoto",
+                "decentralized currency"
+            ]
+        },
+        {
+            "title": "The Impact of Bitcoin on Finance",
+            "summary": "This chapter examines the revolutionary impact of Bitcoin on the financial system and its potential future.",
+            "keywords": [
+                "bitcoin",
+                "Satoshi Nakamoto",
+                "decentralized currency"
+            ]
+        }
+    ]
+}

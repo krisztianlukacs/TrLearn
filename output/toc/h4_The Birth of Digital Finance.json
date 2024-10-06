@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Digital Finance",
+            "summary": "An overview of digital finance, its importance, and how it is transforming traditional financial systems.",
+            "keywords": [
+                "digital finance",
+                "financial systems",
+                "transformation"
+            ]
+        },
+        {
+            "title": "The Evolution of Finance",
+            "summary": "A historical perspective on the evolution of finance from barter systems to modern digital platforms.",
+            "keywords": [
+                "history",
+                "finance",
+                "evolution",
+                "barter systems"
+            ]
+        },
+        {
+            "title": "The Birth of Digital Finance",
+            "summary": "Exploring the origins and early developments of digital finance, including key innovations and pioneering companies.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "origins",
+                "innovations"
+            ]
+        },
+        {
+            "title": "Milestones in Digital Finance",
+            "summary": "Highlighting significant milestones and breakthroughs in the history of digital finance, from the first online transactions to advanced fintech solutions.",
+            "keywords": [
+                "digital finance",
+                "history",
+                "milestones",
+                "fintech"
+            ]
+        }
+    ]
+}

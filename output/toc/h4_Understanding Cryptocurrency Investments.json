@@ -1,0 +1,89 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Cryptocurrency Investments",
+            "summary": "This chapter provides an overview of cryptocurrency investments, including what they are, how they work, and their potential benefits and risks.",
+            "keywords": [
+                "cryptocurrency investments",
+                "benefits",
+                "risks",
+                "overview"
+            ]
+        },
+        {
+            "title": "Types of Cryptocurrencies",
+            "summary": "This chapter explores the various types of cryptocurrencies available in the market, such as Bitcoin, Ethereum, Litecoin, and others. It discusses their unique features and use cases.",
+            "keywords": [
+                "types of cryptocurrencies",
+                "Bitcoin",
+                "Ethereum",
+                "Litecoin",
+                "features"
+            ]
+        },
+        {
+            "title": "Market Overview of Cryptocurrencies",
+            "summary": "This chapter provides an in-depth look at the current state of the cryptocurrency market, including market trends, key players, and regulatory landscapes.",
+            "keywords": [
+                "market overview",
+                "cryptocurrency market",
+                "trends",
+                "regulations",
+                "key players"
+            ]
+        },
+        {
+            "title": "Investment Strategies in Cryptocurrency",
+            "summary": "This chapter delves into various investment strategies for cryptocurrencies, such as long-term holding, day trading, and portfolio diversification.",
+            "keywords": [
+                "investment strategies",
+                "long-term holding",
+                "day trading",
+                "portfolio diversification"
+            ]
+        }
+    ]
+}{
+    "chapters": [
+        {
+            "title": "Introduction to Cryptocurrency",
+            "summary": "This chapter provides an overview of cryptocurrency, its origins, and its significance in the modern financial landscape.",
+            "keywords": [
+                "cryptocurrency",
+                "bitcoin",
+                "digital currency",
+                "decentralization"
+            ]
+        },
+        {
+            "title": "Investing in Cryptocurrency",
+            "summary": "This chapter covers the basics of investing in cryptocurrency, including strategies, risks, and potential rewards.",
+            "keywords": [
+                "investments",
+                "crypto portfolio",
+                "risk management",
+                "diversification"
+            ]
+        },
+        {
+            "title": "Understanding Blockchain Technology",
+            "summary": "This chapter explores the underlying technology of cryptocurrency, blockchain, and its applications beyond digital currencies.",
+            "keywords": [
+                "blockchain",
+                "decentralized ledger",
+                "smart contracts",
+                "security"
+            ]
+        },
+        {
+            "title": "Navigating the Crypto Market",
+            "summary": "This chapter discusses the dynamics of the crypto market, including market trends, regulation, and the impact of global events.",
+            "keywords": [
+                "crypto market",
+                "volatility",
+                "regulation",
+                "market analysis"
+            ]
+        }
+    ]
+}

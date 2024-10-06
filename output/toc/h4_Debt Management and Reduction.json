@@ -1,0 +1,48 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Debt Management",
+            "summary": "This chapter focuses on the importance of debt management and the various strategies to effectively manage debts. It covers the principles of budgeting, prioritizing payments, and negotiating with creditors.",
+            "keywords": [
+                "debt management",
+                "budgeting",
+                "prioritizing payments",
+                "negotiation",
+                "creditors"
+            ]
+        },
+        {
+            "title": "Strategies for Debt Reduction",
+            "summary": "This chapter provides practical strategies for reducing debt. It discusses methods such as increasing income, reducing expenses, and making larger payments to high-interest debts to accelerate the debt reduction process.",
+            "keywords": [
+                "debt reduction",
+                "increasing income",
+                "reducing expenses",
+                "high-interest debts",
+                "acceleration"
+            ]
+        },
+        {
+            "title": "Debt Consolidation Techniques",
+            "summary": "This chapter explores the concept of debt consolidation, which involves combining multiple debts into a single loan. It discusses the benefits and risks of debt consolidation, as well as different methods such as balance transfers and personal loans.",
+            "keywords": [
+                "debt consolidation",
+                "single loan",
+                "balance transfers",
+                "personal loans",
+                "benefits and risks"
+            ]
+        },
+        {
+            "title": "The Snowball Method of Debt Repayment",
+            "summary": "This chapter delves into the snowball method, a popular debt repayment strategy. It explains how paying off the smallest debts first can provide psychological benefits and build momentum for tackling larger debts.",
+            "keywords": [
+                "snowball method",
+                "debt repayment",
+                "smallest debts",
+                "psychological benefits",
+                "momentum"
+            ]
+        }
+    ]
+}

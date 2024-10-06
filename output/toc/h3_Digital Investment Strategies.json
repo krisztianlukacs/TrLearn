@@ -1,0 +1,40 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Digital Investment",
+            "summary": "This chapter explores the concept of digital investment, its importance, and the various opportunities it presents in the modern financial landscape.",
+            "keywords": [
+                "digital investment",
+                "financial opportunities",
+                "modern finance"
+            ]
+        },
+        {
+            "title": "Essential Tools for Digital Investors",
+            "summary": "Discover the essential tools and technologies that digital investors use to make informed decisions and maximize their returns.",
+            "keywords": [
+                "investment tools",
+                "technologies",
+                "informed decisions"
+            ]
+        },
+        {
+            "title": "Top Digital Investment Platforms",
+            "summary": "A comprehensive overview of the leading digital investment platforms, their features, benefits, and how to choose the right one for your needs.",
+            "keywords": [
+                "investment platforms",
+                "features",
+                "benefits"
+            ]
+        },
+        {
+            "title": "Effective Strategies for Digital Investing",
+            "summary": "Explore effective strategies for digital investing, including risk management, portfolio diversification, and leveraging technology for better outcomes.",
+            "keywords": [
+                "investment strategies",
+                "risk management",
+                "portfolio diversification"
+            ]
+        }
+    ]
+}

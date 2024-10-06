@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "The Evolution of Digital Finance",
+            "summary": "This chapter explores the historical development of digital finance, highlighting the role of the internet in transforming traditional financial services.",
+            "keywords": [
+                "internet",
+                "digital finance",
+                "transformation",
+                "financial services"
+            ]
+        },
+        {
+            "title": "Real-Time Transactions in the Digital Age",
+            "summary": "Examining the impact of the internet on the speed and efficiency of financial transactions, this chapter discusses the advent of real-time transactions and their benefits.",
+            "keywords": [
+                "real-time transactions",
+                "internet",
+                "speed",
+                "efficiency"
+            ]
+        },
+        {
+            "title": "Global Access to Financial Services",
+            "summary": "This chapter delves into how the internet has democratized access to financial services, making them available to a broader global audience.",
+            "keywords": [
+                "global access",
+                "internet",
+                "financial services",
+                "democratization"
+            ]
+        },
+        {
+            "title": "The Future of Digital Finance",
+            "summary": "Looking ahead, this chapter predicts the future trends in digital finance, emphasizing the continued influence of the internet on innovation and global reach.",
+            "keywords": [
+                "future trends",
+                "digital finance",
+                "internet",
+                "innovation"
+            ]
+        }
+    ]
+}

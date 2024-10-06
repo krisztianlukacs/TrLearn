@@ -1,0 +1,48 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Financial Literacy in the Digital Age",
+            "summary": "This chapter explores the basics of financial literacy and how it applies to digital investments. It covers key concepts such as budgeting, saving, and risk management in the context of digital finance.",
+            "keywords": [
+                "financial literacy",
+                "digital age",
+                "budgeting",
+                "saving",
+                "risk management"
+            ]
+        },
+        {
+            "title": "Navigating the World of Digital Investments",
+            "summary": "This chapter delves into the various types of digital investments, including cryptocurrencies, robo-advisors, and online trading platforms. It provides insights into how to choose the right digital investment options.",
+            "keywords": [
+                "digital investments",
+                "cryptocurrencies",
+                "robo-advisors",
+                "online trading",
+                "investment options"
+            ]
+        },
+        {
+            "title": "Building a Strong Financial Foundation for Digital Investors",
+            "summary": "This chapter focuses on the importance of having a solid financial foundation before venturing into digital investments. It discusses strategies for building wealth, managing debt, and creating an emergency fund.",
+            "keywords": [
+                "financial foundation",
+                "wealth building",
+                "debt management",
+                "emergency fund",
+                "digital investors"
+            ]
+        },
+        {
+            "title": "Evaluating Risks and Rewards in Digital Investments",
+            "summary": "This chapter examines the risks and potential rewards associated with digital investments. It offers guidance on how to evaluate investment opportunities, diversify your portfolio, and protect your assets in the digital world.",
+            "keywords": [
+                "risk evaluation",
+                "investment opportunities",
+                "portfolio diversification",
+                "asset protection",
+                "digital world"
+            ]
+        }
+    ]
+}

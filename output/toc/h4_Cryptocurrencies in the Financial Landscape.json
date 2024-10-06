@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "The Evolving Financial Landscape",
+            "summary": "An overview of how the financial landscape has changed over the years, including the introduction of new technologies and financial instruments.",
+            "keywords": [
+                "financial landscape",
+                "technological advancements",
+                "financial instruments",
+                "evolution"
+            ]
+        },
+        {
+            "title": "Traditional Finance and Its Limitations",
+            "summary": "A detailed look into traditional financial systems, their strengths, and the limitations that have paved the way for alternative financial solutions.",
+            "keywords": [
+                "traditional finance",
+                "strengths and weaknesses",
+                "alternative financial solutions",
+                "financial systems"
+            ]
+        },
+        {
+            "title": "Cryptocurrencies as Disruptors",
+            "summary": "Exploring how cryptocurrencies are disrupting traditional financial markets and the implications of this disruption on various sectors.",
+            "keywords": [
+                "disruption",
+                "cryptocurrencies",
+                "traditional markets",
+                "financial sectors"
+            ]
+        },
+        {
+            "title": "The Impact of Cryptocurrencies on the Global Economy",
+            "summary": "Analyzing the role of cryptocurrencies in the global economy, including their influence on international trade, monetary policy, and economic stability.",
+            "keywords": [
+                "global economy",
+                "cryptocurrencies",
+                "international trade",
+                "economic stability"
+            ]
+        }
+    ]
+}

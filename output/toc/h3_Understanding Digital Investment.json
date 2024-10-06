@@ -1,0 +1,42 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Digital Investment",
+            "summary": "This chapter provides an overview of digital investment, including its definition, benefits, and how it differs from traditional investment methods.",
+            "keywords": [
+                "digital investment",
+                "definition",
+                "benefits"
+            ]
+        },
+        {
+            "title": "The Role of Financial Literacy in Digital Investment",
+            "summary": "This chapter explores the importance of financial literacy in making informed decisions about digital investments.",
+            "keywords": [
+                "financial literacy",
+                "informed decisions",
+                "digital investments"
+            ]
+        },
+        {
+            "title": "Strategies for Successful Digital Investment",
+            "summary": "This chapter outlines various strategies for successful digital investment, including diversification and risk management.",
+            "keywords": [
+                "digital investment",
+                "strategies",
+                "diversification",
+                "risk management"
+            ]
+        },
+        {
+            "title": "Building Financial Literacy for Effective Digital Investment",
+            "summary": "This chapter focuses on how to build and improve financial literacy skills to enhance the effectiveness of digital investment decisions.",
+            "keywords": [
+                "financial literacy",
+                "skill building",
+                "digital investment",
+                "effectiveness"
+            ]
+        }
+    ]
+}

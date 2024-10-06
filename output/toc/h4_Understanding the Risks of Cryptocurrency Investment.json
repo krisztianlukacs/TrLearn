@@ -1,0 +1,45 @@
+{
+    "chapters": [
+        {
+            "title": "Risks of Cryptocurrency Investment",
+            "summary": "This chapter explores the inherent risks associated with investing in cryptocurrencies, highlighting the potential pitfalls that investors should be aware of.",
+            "keywords": [
+                "cryptocurrency",
+                "investment",
+                "risks",
+                "pitfalls"
+            ]
+        },
+        {
+            "title": "Market Volatility in Cryptocurrency",
+            "summary": "This chapter delves into the extreme price fluctuations characteristic of the cryptocurrency market, explaining how this volatility can impact investment strategies and returns.",
+            "keywords": [
+                "cryptocurrency",
+                "market volatility",
+                "price fluctuations",
+                "investment strategies"
+            ]
+        },
+        {
+            "title": "Regulatory Uncertainty in Cryptocurrency",
+            "summary": "This chapter examines the lack of clear regulations and legal frameworks surrounding cryptocurrencies, and how this uncertainty can affect investors and the market as a whole.",
+            "keywords": [
+                "cryptocurrency",
+                "regulatory uncertainty",
+                "legal frameworks",
+                "market impact"
+            ]
+        },
+        {
+            "title": "Security Threats in Cryptocurrency",
+            "summary": "This chapter discusses the various security risks associated with cryptocurrency investments, including hacking, fraud, and the importance of secure storage solutions.",
+            "keywords": [
+                "cryptocurrency",
+                "security threats",
+                "hacking",
+                "fraud",
+                "secure storage"
+            ]
+        }
+    ]
+}

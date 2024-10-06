@@ -1,0 +1,55 @@
+{
+    "chapters": [
+        {
+            "title": "Key Components of Financial Planning",
+            "summary": "This chapter provides an overview of the essential components of financial planning, highlighting the importance of each aspect in achieving financial well-being.",
+            "keywords": [
+                "financial planning",
+                "components",
+                "well-being"
+            ]
+        },
+        {
+            "title": "Budgeting: The Foundation of Financial Planning",
+            "summary": "Budgeting is a critical component of financial planning. It involves tracking income and expenses to ensure that spending aligns with financial goals. This section discusses the importance of creating and maintaining a budget.",
+            "keywords": [
+                "budgeting",
+                "income",
+                "expenses",
+                "financial goals"
+            ]
+        },
+        {
+            "title": "The Importance of Saving in Financial Planning",
+            "summary": "Saving is crucial for building financial stability and security. This section explores various saving methods and strategies, such as emergency funds, retirement savings, and saving for short-term goals.",
+            "keywords": [
+                "saving",
+                "financial stability",
+                "emergency funds",
+                "retirement"
+            ]
+        },
+        {
+            "title": "Investing for Long-Term Financial Growth",
+            "summary": "Investing is a key component of financial planning that focuses on growing wealth over the long term. This section covers different investment options, risk management, and the importance of diversification.",
+            "keywords": [
+                "investing",
+                "wealth growth",
+                "risk management",
+                "diversification"
+            ]
+        },
+        {
+            "title": "Insurance: Protecting Your Financial Future",
+            "summary": "Insurance plays a vital role in financial planning by protecting against unexpected events that could disrupt financial stability. This section discusses various types of insurance, including health, life, auto, and home insurance.",
+            "keywords": [
+                "insurance",
+                "financial protection",
+                "health",
+                "life",
+                "auto",
+                "home"
+            ]
+        }
+    ]
+}

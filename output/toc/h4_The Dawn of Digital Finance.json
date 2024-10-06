@@ -1,0 +1,44 @@
+{
+    "chapters": [
+        {
+            "title": "The Evolution of Digital Finance",
+            "summary": "This chapter explores the historical development and current state of digital finance, highlighting key technological advancements and their impact on the financial sector.",
+            "keywords": [
+                "digital finance",
+                "technology",
+                "financial sector"
+            ]
+        },
+        {
+            "title": "Innovation in Digital Finance",
+            "summary": "This chapter delves into the innovative technologies and platforms that have revolutionized digital finance, including blockchain, AI, and fintech startups.",
+            "keywords": [
+                "innovation",
+                "blockchain",
+                "AI",
+                "fintech"
+            ]
+        },
+        {
+            "title": "Traditional Finance vs. Digital Finance",
+            "summary": "This chapter compares and contrasts traditional finance and digital finance, discussing the advantages and challenges of each approach.",
+            "keywords": [
+                "traditional finance",
+                "digital finance",
+                "comparison",
+                "advantages",
+                "challenges"
+            ]
+        },
+        {
+            "title": "The Future of Digital Finance",
+            "summary": "This chapter forecasts the future trends and developments in digital finance, including potential disruptions and opportunities for growth.",
+            "keywords": [
+                "digital finance",
+                "future trends",
+                "growth",
+                "disruptions"
+            ]
+        }
+    ]
+}

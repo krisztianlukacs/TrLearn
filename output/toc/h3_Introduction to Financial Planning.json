@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Understanding Financial Planning",
+            "summary": "This chapter provides an overview of what financial planning is and its significance in personal and professional life.",
+            "keywords": [
+                "financial planning",
+                "overview",
+                "significance"
+            ]
+        },
+        {
+            "title": "The Importance of Financial Planning",
+            "summary": "This chapter discusses why financial planning is crucial for achieving financial goals and securing a stable future.",
+            "keywords": [
+                "importance",
+                "financial goals",
+                "future stability"
+            ]
+        },
+        {
+            "title": "Key Components of Financial Planning",
+            "summary": "This chapter outlines the essential components of financial planning, including budgeting, saving, investing, and insurance.",
+            "keywords": [
+                "components",
+                "budgeting",
+                "saving",
+                "investing",
+                "insurance"
+            ]
+        },
+        {
+            "title": "Implementing Effective Financial Planning Strategies",
+            "summary": "This chapter covers strategies and tips for implementing effective financial planning to ensure long-term financial success.",
+            "keywords": [
+                "strategies",
+                "effective planning",
+                "long-term success",
+                "financial strategies"
+            ]
+        }
+    ]
+}

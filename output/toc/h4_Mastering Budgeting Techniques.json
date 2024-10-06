@@ -1,0 +1,43 @@
+{
+    "chapters": [
+        {
+            "title": "Introduction to Budgeting",
+            "summary": "This chapter introduces the concept of budgeting, its importance in personal finance, and the various techniques that can be employed to manage money effectively.",
+            "keywords": [
+                "budgeting",
+                "personal finance",
+                "money management"
+            ]
+        },
+        {
+            "title": "The 50/30/20 Rule",
+            "summary": "This chapter delves into the 50/30/20 rule, a popular budgeting method that allocates 50% of income to needs, 30% to wants, and 20% to savings and debt repayment.",
+            "keywords": [
+                "50/30/20 rule",
+                "budgeting method",
+                "savings",
+                "debt repayment"
+            ]
+        },
+        {
+            "title": "Zero-Based Budgeting",
+            "summary": "This chapter explores zero-based budgeting, a technique where every dollar of income is allocated to specific expenses, savings, or debt repayment, ensuring that income minus expenses equals zero.",
+            "keywords": [
+                "zero-based budgeting",
+                "income allocation",
+                "expense management",
+                "savings"
+            ]
+        },
+        {
+            "title": "Advanced Financial Management",
+            "summary": "This chapter discusses advanced financial management techniques, including investment strategies, risk management, and long-term financial planning.",
+            "keywords": [
+                "financial management",
+                "investment strategies",
+                "risk management",
+                "long-term planning"
+            ]
+        }
+    ]
+}
