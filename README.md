@@ -1,6 +1,6 @@
 This project is part of the 'TrypoLearn: Video Stream 2 ebooks' project.
 
-It's made for Mistral AI Hackathon, London 2024.10.05 - 06.
+It's made for AI Hackathon.
 
 Builded from skratch.
 
